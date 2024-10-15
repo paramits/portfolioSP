@@ -36,6 +36,26 @@ function dropdown() {
        document.getElementById("dropLink").innerHTML ="Hide Transcript"
     }
   }
+  function dropdownTwo() {
+    let y = document.getElementById("quotationsTwo");  
+    if (y.style.display !== "none") {
+      y.style.display = "none";
+      document.getElementById("dropLinkTwo").innerHTML ="Show Transcript"
+    } else {
+      y.style.display = "block";
+       document.getElementById("dropLinkTwo").innerHTML ="Hide Transcript"
+    }
+  }
+  function dropdownThree() {
+    let z = document.getElementById("quotationsThree");  
+    if (z.style.display !== "none") {
+      z.style.display = "none";
+      document.getElementById("dropLinkThree").innerHTML ="Show Transcript"
+    } else {
+      z.style.display = "block";
+       document.getElementById("dropLinkThree").innerHTML ="Hide Transcript"
+    }
+  }
 // let introText = document.querySelector('#animatedText');
 
 // window.addEventListener('focus', function() {
