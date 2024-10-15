@@ -1088,6 +1088,13 @@ ol {
   cursor: pointer;
 }
 
+#dropLinkTwo{
+  cursor: pointer;
+}
+
+#dropLinkThree{
+  cursor: pointer;
+}
 .dropdown{
   display: flex;
   flex-direction: column;
@@ -1103,10 +1110,18 @@ button{
   border-radius: 8px;
   font-size: 16px;
   color:white;
-  background-color: #251f3a;
+  background-color: #DB3A34;
+  font-weight: 600;
+  font-family: "Karla";
 }
 
 #quotations p{
+  font-size: 16px;
+}
+#quotationsTwo p{
+  font-size: 16px;
+}
+#quotationsThree p{
   font-size: 16px;
 }
 
