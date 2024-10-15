@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1145.92 266">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #ffc0c0;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+
+      .cls-2 {
+        letter-spacing: -.08em;
+      }
+
+      .cls-3 {
+        font-family: Karla-Regular, Karla;
+        font-size: 16px;
+        font-variation-settings: 'wght' 400;
+      }
+
+      .cls-4, .cls-5 {
+        fill: #db3a34;
+      }
+
+      .cls-5 {
+        font-family: Karla-ExtraBold, Karla;
+        font-size: 60px;
+        font-variation-settings: 'wght' 800;
+      }
+
+      .cls-5, .cls-6 {
+        font-weight: 700;
+      }
+
+      .cls-7 {
+        letter-spacing: -.08em;
+      }
+
+      .cls-8, .cls-9 {
+        fill: #ffc0c0;
+      }
+
+      .cls-9 {
+        stroke: #db3a34;
+        stroke-linejoin: round;
+        stroke-width: 4px;
+      }
+
+      .cls-10 {
+        fill: #f3fd80;
+      }
+
+      .cls-6 {
+        font-family: Karla-Bold, Karla;
+        font-size: 20px;
+        font-variation-settings: 'wght' 700;
+      }
+    </style>
+  </defs>
+  <g id="Layer_5">
+    <circle class="cls-8" cx="406.67" cy="60" r="60"/>
+    <g>
+      <path class="cls-4" d="M407.38,71.33v-27.65c0-.39.31-.7.7-.7h18.22c.39,0,.7.31.7.7v21.03h4.21v-21.03c0-2.7-2.2-4.91-4.91-4.91h-18.22c-1.37,0-2.61.57-3.5,1.48-.89-.91-2.13-1.48-3.5-1.48h-18.22c-2.7,0-4.91,2.2-4.91,4.91v36.44c0,2.7,2.2,4.91,4.91,4.91h17.72v-4.21h-17.72c-.39,0-.7-.31-.7-.7v-36.44c0-.39.31-.7.7-.7h18.22c.39,0,.7.31.7.7v27.65h5.61Z"/>
+      <path class="cls-4" d="M418.46,69.2c-.51-.23-1.09-.14-1.51.24l-5.04,4.54c-.39.35-.88.54-1.41.54h-3.83c-1.16,0-2.1.94-2.1,2.1v4.91c0,1.16.94,2.1,2.1,2.1h3.92c.48,0,.94.16,1.31.46l5.1,4.08c.26.2.56.31.87.31.21,0,.41-.05.61-.14.49-.24.79-.72.79-1.26v-16.59c0-.56-.32-1.05-.83-1.28Z"/>
+      <path class="cls-4" d="M423.88,71.31l-2.18,3.6c.1.06,2.5,1.6,2.5,4.51s-2.4,4.45-2.48,4.5l2.16,3.61c.18-.11,4.52-2.78,4.52-8.11s-4.34-8-4.52-8.11Z"/>
+      <path class="cls-4" d="M428.44,66.94l-1.5,3.93c.17.07,4.27,1.82,4.27,8.55s-4.09,8.48-4.24,8.54l1.48,3.94c.28-.11,6.97-2.73,6.97-12.48s-6.69-12.37-6.97-12.48Z"/>
+    </g>
+    <text transform="translate(72.44 163.77)"><tspan class="cls-6"><tspan class="cls-7" x="0" y="0">T</tspan><tspan x="8.97" y="0">utorial</tspan></tspan><tspan class="cls-3"><tspan x="-52.72" y="38.4">Users are informed of all </tspan></tspan><tspan class="cls-3"><tspan x="-52.62" y="57.6">helpful reading features.</tspan></tspan></text>
+    <text transform="translate(351.84 163.77)"><tspan class="cls-6"><tspan x="0" y="0">Read-Aloud</tspan></tspan><tspan class="cls-3"><tspan x="-33.62" y="36">The audio-visual pairing </tspan></tspan><tspan class="cls-3"><tspan x="-55.45" y="55.2">improves sustained attention, </tspan></tspan><tspan class="cls-3"><tspan x="-13.62" y="74.4">increasing reading </tspan></tspan><tspan class="cls-3"><tspan x="-3.81" y="93.6">comprehension.</tspan></tspan></text>
+    <text transform="translate(605.54 163.77)"><tspan class="cls-6"><tspan x="0" y="0">Completion Highlighting</tspan></tspan><tspan class="cls-3"><tspan x="30.74" y="36">Keeps the user engaged </tspan></tspan><tspan class="cls-3"><tspan x="8.38" y="55.2">through increased interaction </tspan></tspan><tspan class="cls-3"><tspan x="34.58" y="74.4">with the app (tapping). </tspan></tspan></text>
+    <text transform="translate(946.06 163.77)"><tspan class="cls-6"><tspan x="0" y="0">Progress </tspan><tspan class="cls-2" x="87.03" y="0">T</tspan><tspan x="95.96" y="0">racker</tspan></tspan><tspan class="cls-3"><tspan x="-13.84" y="36">Improves motivation and </tspan></tspan><tspan class="cls-3"><tspan x="-39.69" y="55.2">encourages the user to continue </tspan></tspan><tspan class="cls-3"><tspan x="-37.23" y="74.4">their task as they feel rewarded.</tspan></tspan></text>
+    <g>
+      <circle class="cls-8" cx="108.9" cy="61.31" r="60"/>
+      <g>
+        <path class="cls-4" d="M110.79,71.41c-1.38,0-2.72-.26-4-.76l-16.73-6.63v10.69c0,5.19,9.28,9.39,20.73,9.39s20.73-4.21,20.73-9.39v-10.69l-16.73,6.63c-1.28.51-2.63.76-4,.76Z"/>
+        <path class="cls-4" d="M143,53.18l-29.34-11.63c-1.84-.73-3.89-.73-5.74,0l-29.34,11.63c-.69.27-1.14.93-1.14,1.67s.45,1.4,1.14,1.67l4.11,1.63v11.65c-.91.62-1.51,1.67-1.51,2.86,0,1.09.5,2.06,1.29,2.69l-1.25,6c-.17.81.04,1.64.56,2.28.52.64,1.3,1.01,2.12,1.01h1.48c.82,0,1.6-.37,2.12-1.01.52-.64.72-1.48.56-2.28l-1.25-6c.79-.63,1.29-1.6,1.29-2.69,0-1.19-.6-2.24-1.51-2.86v-10.1l21.25,8.42c1.9.75,4.02.75,5.93,0l29.25-11.59c.69-.27,1.14-.93,1.14-1.67,0-.74-.45-1.4-1.14-1.67Z"/>
+      </g>
+    </g>
+  </g>
+  <g id="Layer_9">
+    <g>
+      <circle class="cls-8" cx="1024.25" cy="60" r="60"/>
+      <text class="cls-5" transform="translate(1000.42 85.02)"><tspan x="0" y="0">%</tspan></text>
+    </g>
+  </g>
+  <g id="Layer_11">
+    <g>
+      <circle class="cls-8" cx="723.15" cy="60" r="60"/>
+      <g>
+        <rect class="cls-4" x="690.42" y="38.44" width="64.75" height="12.31"/>
+        <rect class="cls-4" x="690.5" y="70.67" width="34.06" height="12.31"/>
+        <rect class="cls-4" x="690.42" y="54.26" width="64.75" height="12.31"/>
+        <line class="cls-1" x1="694.83" y1="44.59" x2="750.76" y2="44.59"/>
+        <line class="cls-1" x1="694.83" y1="60.42" x2="750.76" y2="60.42"/>
+        <line class="cls-1" x1="694.76" y1="76.82" x2="720.76" y2="76.82"/>
+        <circle class="cls-10" cx="736.5" cy="63.2" r="12.31"/>
+        <path class="cls-9" d="M731.72,75.17c.31.15.68-.08.68-.43v-12.71c.11-1.81,1.39-3.26,2.93-3.52,1.9-.32,3.96,1.22,4.17,3.52v7.43c0,.42.33.76.75.78,7.58.35,12.08,1.76,10.32,9.96l-2.56,8.69c-.23.77-.89,1.33-1.69,1.42l-7.5.88c-.71.08-1.41-.22-1.84-.79-3.84-5.07-8.14-9.31-13.65-11.33-1.1-.4-1.53-1.76-.82-2.69,1.84-2.41,4.52-3.45,9.21-1.22Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 418.17 120">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.08em;
+      }
+
+      .cls-2 {
+        font-family: Karla-Regular, Karla;
+        font-size: 16px;
+        font-variation-settings: 'wght' 400;
+      }
+
+      .cls-3 {
+        fill: #db3a34;
+        font-family: Karla-ExtraBold, Karla;
+        font-size: 60px;
+        font-variation-settings: 'wght' 800;
+      }
+
+      .cls-3, .cls-4 {
+        font-weight: 700;
+      }
+
+      .cls-5 {
+        fill: #ffc0c0;
+      }
+
+      .cls-4 {
+        font-family: Karla-Bold, Karla;
+        font-size: 20px;
+        font-variation-settings: 'wght' 700;
+      }
+    </style>
+  </defs>
+  <g id="Layer_5">
+    <text transform="translate(159.1 24.4)"><tspan class="cls-4"><tspan x="0" y="0">Progress </tspan><tspan class="cls-1" x="87.03" y="0">T</tspan><tspan x="95.96" y="0">racker</tspan></tspan><tspan class="cls-2"><tspan x="0" y="43.2">Improves motivation and </tspan></tspan><tspan class="cls-2"><tspan x="0" y="62.4">encourages the user to continue </tspan></tspan><tspan class="cls-2"><tspan x="0" y="81.6">their task as they feel rewarded.</tspan></tspan></text>
+  </g>
+  <g id="Layer_9">
+    <g>
+      <circle class="cls-5" cx="60.23" cy="60.33" r="60"/>
+      <text class="cls-3" transform="translate(34.88 80.54)"><tspan x="0" y="0">%</tspan></text>
+    </g>
+  </g>
+</svg>
