@@ -488,7 +488,7 @@ li {
       justify-content: center;
       flex-direction: row;
       gap: 10%;
-      background-color: rgb(125, 221, 245);
+/*       background-color: rgb(125, 221, 245); */
       margin: 20%;
       border-radius: 15px;
       z-index: 1;
@@ -507,7 +507,7 @@ li {
       justify-content: center;
       flex-direction: row;
       gap: 10%;
-      background-color: rgb(213, 245, 125);
+/*       background-color: rgb(213, 245, 125); */
       margin: 20%;
       border-radius: 15px;
       z-index: 1;
