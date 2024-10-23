@@ -492,10 +492,10 @@ li {
       margin: 20%;
       border-radius: 15px;
       z-index: 1;
-      border: 3px solid;
+/*       border: 3px solid; */
       padding: 2% 5%;
-      box-shadow: 5px 10px black;
-      border-color: black;
+/*       box-shadow: 5px 10px black;
+      border-color: black; */
   }
 }
 
@@ -511,10 +511,10 @@ li {
       margin: 20%;
       border-radius: 15px;
       z-index: 1;
-      border: 3px solid;
+/*       border: 3px solid; */
       padding: 5%;
-      box-shadow: 5px 10px black;
-      border-color: black;
+/*       box-shadow: 5px 10px black;
+      border-color: black; */
   }
 }
 
