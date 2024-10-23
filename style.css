@@ -490,7 +490,7 @@ li {
       gap: 10%;
 /*       background-color: rgb(125, 221, 245); */
       margin: 20%;
-      border-radius: 15px;
+      /* border-radius: 15px; */
       z-index: 1;
 /*       border: 3px solid; */
       padding: 2% 5%;
@@ -509,7 +509,7 @@ li {
       gap: 10%;
 /*       background-color: rgb(213, 245, 125); */
       margin: 20%;
-      border-radius: 15px;
+      /* border-radius: 15px; */
       z-index: 1;
 /*       border: 3px solid; */
       padding: 5%;
