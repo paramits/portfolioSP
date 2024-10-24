@@ -1,0 +1,347 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <filter id="Rectangle_176" x="605.914" y="145.5" width="284" height="253" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Low-fi_wireframes_15">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Low-fi_wireframes_15" data-name="Low-fi wireframes – 15" clip-path="url(#clip-Low-fi_wireframes_15)">
+    <rect width="1920" height="1080" fill="#fff3e7"/>
+    <g id="Group_224" data-name="Group 224" transform="translate(-43.677 -36.5)">
+      <rect id="Rectangle_148" data-name="Rectangle 148" width="302" height="652" transform="translate(182.737 138)" fill="#fff"/>
+      <text id="Lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit._Ut_in_velit_magna._Vestibulum_laoreet_rhoncus_nisi_sit_amet_sollicitudin_elit_tristique_sed._Integer_ullamcorper_sem_ut_interdum_aliquet._Duis_ac_mi_odio._Mauris_iaculis_posue" data-name="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut in velit magna. Vestibulum laoreet rhoncus nisi, sit amet sollicitudin elit tristique sed. 
+          &quot;Integer ullamcorper sem ut interdum aliquet.&quot;
+          Duis ac mi odio. Mauris iaculis posue" transform="translate(203.737 198)" fill="#201d13" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Lorem ipsum dolor sit amet, </tspan><tspan x="0" y="38">consectetur adipiscing elit. Ut in velit </tspan><tspan x="0" y="59">magna. Vestibulum laoreet rhoncus </tspan><tspan x="0" y="80">nisi, sit amet sollicitudin elit tristique </tspan><tspan x="0" y="101">sed. </tspan><tspan x="0" y="122" xml:space="preserve">          &quot;Integer ullamcorper sem ut </tspan><tspan x="0" y="143">interdum aliquet.&quot;</tspan><tspan x="0" y="164" xml:space="preserve">          Duis ac mi odio. Mauris iaculis </tspan><tspan x="0" y="185">posuere leo, eget bibendum nisi </tspan><tspan x="0" y="206">pulvinar sit amet. Curabitur dui nunc, </tspan><tspan x="0" y="227">pretium quis risus vel, lacinia pretium </tspan><tspan x="0" y="248">dui. Praesent interdum nulla vitae </tspan><tspan x="0" y="269">nunc eleifend, ut maximus tellus </tspan><tspan x="0" y="290">cursus. </tspan><tspan x="0" y="311" xml:space="preserve">          Orci varius natoque penatibus </tspan><tspan x="0" y="332">et magnis dis parturient montes, </tspan><tspan x="0" y="353">nascetur ridiculus mus. Cras aliquam </tspan><tspan x="0" y="374">dui purus, sit amet ornare odio </tspan><tspan x="0" y="395">tristique in.</tspan><tspan x="0" y="416" xml:space="preserve">          Pellentesque pharetra </tspan><tspan x="0" y="437">ullamcorper sem, quis convallis </tspan><tspan x="0" y="458">lectus. Mauris urna arcu, maximus et </tspan><tspan x="0" y="479">cursus pharetra, congue sit amet </tspan><tspan x="0" y="500">sapien. Aenean rhoncus magna </tspan><tspan x="0" y="521">lectus, quis ullamcorper ante efficitur </tspan><tspan x="0" y="542">in. Suspendisse id sollicitudin lacus. </tspan></text>
+      <rect id="Rectangle_150" data-name="Rectangle 150" width="300" height="55" transform="translate(183.737 735)" fill="#fff"/>
+      <path id="Rectangle_149" data-name="Rectangle 149" d="M1,1V652H300V1H1M0,0H301V653H0Z" transform="translate(183.737 137)" fill="#707070"/>
+      <text id="Reading_a_Book_tutorial_" data-name="Reading a Book (tutorial)" transform="translate(183.737 103)" fill="#201d13" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="17">Reading a Book (tutorial)</tspan></text>
+      <g id="Group_50" data-name="Group 50" transform="translate(445.03 152)">
+        <rect id="Rectangle_44" data-name="Rectangle 44" width="22" height="22" transform="translate(0.207)" fill="#fff"/>
+        <path id="Rectangle_44_-_Outline" data-name="Rectangle 44 - Outline" d="M1,1V21H21V1H1M0,0H22V22H0Z" transform="translate(0.207)" fill="#707070"/>
+        <path id="Line_36" data-name="Line 36" d="M20.62,21.327-.354.354.354-.354,21.327,20.62Z" transform="translate(0.523 0.499)" fill="#707070"/>
+        <path id="Line_37" data-name="Line 37" d="M.354,21.327l-.707-.707L20.62-.354l.707.707Z" transform="translate(0.523 0.499)" fill="#707070"/>
+      </g>
+      <g id="Group_49" data-name="Group 49" transform="translate(410.03 152)">
+        <rect id="Rectangle_44-2" data-name="Rectangle 44" width="22" height="22" transform="translate(0.207)" fill="#fff"/>
+        <path id="Rectangle_44_-_Outline-2" data-name="Rectangle 44 - Outline" d="M1,1V21H21V1H1M0,0H22V22H0Z" transform="translate(0.207)" fill="#707070"/>
+        <path id="Line_36-2" data-name="Line 36" d="M20.62,21.327-.354.354.354-.354,21.327,20.62Z" transform="translate(0.523 0.499)" fill="#707070"/>
+        <path id="Line_37-2" data-name="Line 37" d="M.354,21.327l-.707-.707L20.62-.354l.707.707Z" transform="translate(0.523 0.499)" fill="#707070"/>
+      </g>
+      <g id="Group_47" data-name="Group 47" transform="translate(375.03 152)">
+        <rect id="Rectangle_44-3" data-name="Rectangle 44" width="22" height="22" transform="translate(0.207)" fill="#fff"/>
+        <path id="Rectangle_44_-_Outline-3" data-name="Rectangle 44 - Outline" d="M1,1V21H21V1H1M0,0H22V22H0Z" transform="translate(0.207)" fill="#707070"/>
+        <path id="Line_36-3" data-name="Line 36" d="M20.62,21.327-.354.354.354-.354,21.327,20.62Z" transform="translate(0.523 0.499)" fill="#707070"/>
+        <path id="Line_37-3" data-name="Line 37" d="M.354,21.327l-.707-.707L20.62-.354l.707.707Z" transform="translate(0.523 0.499)" fill="#707070"/>
+      </g>
+      <g id="Group_48" data-name="Group 48" transform="translate(340.03 152)">
+        <rect id="Rectangle_44-4" data-name="Rectangle 44" width="22" height="22" transform="translate(0.207)" fill="#fff"/>
+        <path id="Rectangle_44_-_Outline-4" data-name="Rectangle 44 - Outline" d="M1,1V21H21V1H1M0,0H22V22H0Z" transform="translate(0.207)" fill="#707070"/>
+        <path id="Line_36-4" data-name="Line 36" d="M20.62,21.327-.354.354.354-.354,21.327,20.62Z" transform="translate(0.523 0.499)" fill="#707070"/>
+        <path id="Line_37-4" data-name="Line 37" d="M.354,21.327l-.707-.707L20.62-.354l.707.707Z" transform="translate(0.523 0.499)" fill="#707070"/>
+      </g>
+      <path id="Line_89" data-name="Line 89" d="M300,.5H0v-1H300Z" transform="translate(183.737 188)" fill="#707070"/>
+      <path id="Line_95" data-name="Line 95" d="M300,.5H0v-1H300Z" transform="translate(183.737 736)" fill="#707070"/>
+      <path id="Line_90" data-name="Line 90" d="M16,.5H0v-1H16Z" transform="translate(201.237 162.186)" fill="#201d13"/>
+      <path id="Path_18" data-name="Path 18" d="M5274.66,2686.579l-6.394-6.394,6.394-6.394.707.707-5.687,5.687,5.687,5.687Z" transform="translate(-5068.263 -2518)" fill="#201d13"/>
+      <rect id="Rectangle_151" data-name="Rectangle 151" width="266" height="10" rx="5" transform="translate(201.737 749)" fill="#fff"/>
+      <path id="Rectangle_151_-_Outline" data-name="Rectangle 151 - Outline" d="M5,1A4,4,0,0,0,5,9H261a4,4,0,0,0,0-8H5M5,0H261a5,5,0,0,1,0,10H5A5,5,0,0,1,5,0Z" transform="translate(201.737 749)" fill="#707070"/>
+      <text id="_10_pages_left_in_chapter" data-name="10 pages left in chapter" transform="translate(201.737 765)" fill="#201d13" font-size="12" font-family="Roboto-Regular, Roboto"><tspan x="0" y="13">10 pages left in chapter</tspan></text>
+      <text id="Book_title" data-name="Book title" transform="translate(231.737 150)" fill="#201d13" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Book title</tspan></text>
+      <rect id="Rectangle_153" data-name="Rectangle 153" width="301" height="653" transform="translate(184 137)" fill="#201d13" opacity="0.15" style="mix-blend-mode: multiply;isolation: isolate"/>
+      <rect id="Rectangle_162" data-name="Rectangle 162" width="267" height="323" rx="21" transform="translate(201 322)" fill="#fff"/>
+      <text id="Everand_s_reading_features" data-name="Everand&apos;s reading features" transform="translate(221 358)" fill="#201d13" font-size="24" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-94.635" y="25">Everand&apos;s reading </tspan><tspan x="-45.023" y="55">features</tspan></text>
+      <text id="Tap_the_icons_at_the_top_right_corner_to_access_helpful_features" data-name="Tap the icons at the top right corner to access helpful features" transform="translate(210 435)" fill="#201d13" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-101.508" y="17">Tap the icons at the top right </tspan><tspan x="-116.715" y="39">corner to access helpful features</tspan></text>
+      <circle id="Ellipse_7" data-name="Ellipse 7" cx="6" cy="6" r="6" transform="translate(286 608)" fill="#707070"/>
+      <path id="Ellipse_7_-_Outline" data-name="Ellipse 7 - Outline" d="M6,1a5,5,0,1,0,5,5A5.006,5.006,0,0,0,6,1M6,0A6,6,0,1,1,0,6,6,6,0,0,1,6,0Z" transform="translate(286 608)" fill="#707070"/>
+      <circle id="Ellipse_8" data-name="Ellipse 8" cx="6" cy="6" r="6" transform="translate(307 608)" fill="#fff"/>
+      <path id="Ellipse_8_-_Outline" data-name="Ellipse 8 - Outline" d="M6,1a5,5,0,1,0,5,5A5.006,5.006,0,0,0,6,1M6,0A6,6,0,1,1,0,6,6,6,0,0,1,6,0Z" transform="translate(307 608)" fill="#707070"/>
+      <circle id="Ellipse_10" data-name="Ellipse 10" cx="6" cy="6" r="6" transform="translate(349 608)" fill="#fff"/>
+      <path id="Ellipse_10_-_Outline" data-name="Ellipse 10 - Outline" d="M6,1a5,5,0,1,0,5,5A5.006,5.006,0,0,0,6,1M6,0A6,6,0,1,1,0,6,6,6,0,0,1,6,0Z" transform="translate(349 608)" fill="#707070"/>
+      <circle id="Ellipse_9" data-name="Ellipse 9" cx="6" cy="6" r="6" transform="translate(328 608)" fill="#fff"/>
+      <path id="Ellipse_9_-_Outline" data-name="Ellipse 9 - Outline" d="M6,1a5,5,0,1,0,5,5A5.006,5.006,0,0,0,6,1M6,0A6,6,0,1,1,0,6,6,6,0,0,1,6,0Z" transform="translate(328 608)" fill="#707070"/>
+      <circle id="Ellipse_11" data-name="Ellipse 11" cx="6" cy="6" r="6" transform="translate(370 608)" fill="#fff"/>
+      <path id="Ellipse_11_-_Outline" data-name="Ellipse 11 - Outline" d="M6,1a5,5,0,1,0,5,5A5.006,5.006,0,0,0,6,1M6,0A6,6,0,1,1,0,6,6,6,0,0,1,6,0Z" transform="translate(370 608)" fill="#707070"/>
+      <g id="Group_90" data-name="Group 90">
+        <path id="Line_100" data-name="Line 100" d="M246,.5H0v-1H246Z" transform="translate(210.5 523.5)" fill="#707070"/>
+        <path id="Line_101" data-name="Line 101" d="M246,.5H0v-1H246Z" transform="translate(210.5 577.5)" fill="#707070"/>
+        <g id="Group_55" data-name="Group 55" transform="translate(384.465 536.668)">
+          <rect id="Rectangle_44-5" data-name="Rectangle 44" width="25.832" height="25.832" transform="translate(0)" fill="#fff"/>
+          <path id="Rectangle_44_-_Outline-5" data-name="Rectangle 44 - Outline" d="M1,1V24.832H24.832V1H1M0,0H25.832V25.832H0Z" transform="translate(0)" fill="#707070"/>
+          <path id="Line_36-5" data-name="Line 36" d="M24.273,24.98-.354.354.354-.354,24.98,24.273Z" transform="translate(0.371 0.586)" fill="#707070"/>
+          <path id="Line_37-5" data-name="Line 37" d="M.354,24.98l-.707-.707L24.273-.354l.707.707Z" transform="translate(0.371 0.586)" fill="#707070"/>
+        </g>
+        <g id="Group_56" data-name="Group 56" transform="translate(343.369 536.668)">
+          <rect id="Rectangle_44-6" data-name="Rectangle 44" width="25.832" height="25.832" transform="translate(0)" fill="#fff"/>
+          <path id="Rectangle_44_-_Outline-6" data-name="Rectangle 44 - Outline" d="M1,1V24.832H24.832V1H1M0,0H25.832V25.832H0Z" transform="translate(0)" fill="#707070"/>
+          <path id="Line_36-6" data-name="Line 36" d="M24.273,24.98-.354.354.354-.354,24.98,24.273Z" transform="translate(0.371 0.586)" fill="#707070"/>
+          <path id="Line_37-6" data-name="Line 37" d="M.354,24.98l-.707-.707L24.273-.354l.707.707Z" transform="translate(0.371 0.586)" fill="#707070"/>
+        </g>
+        <g id="Group_57" data-name="Group 57" transform="translate(302.273 536.668)">
+          <rect id="Rectangle_44-7" data-name="Rectangle 44" width="25.832" height="25.832" transform="translate(0)" fill="#fff"/>
+          <path id="Rectangle_44_-_Outline-7" data-name="Rectangle 44 - Outline" d="M1,1V24.832H24.832V1H1M0,0H25.832V25.832H0Z" transform="translate(0)" fill="#707070"/>
+          <path id="Line_36-7" data-name="Line 36" d="M24.273,24.98-.354.354.354-.354,24.98,24.273Z" transform="translate(0.371 0.586)" fill="#707070"/>
+          <path id="Line_37-7" data-name="Line 37" d="M.354,24.98l-.707-.707L24.273-.354l.707.707Z" transform="translate(0.371 0.586)" fill="#707070"/>
+        </g>
+        <g id="Group_58" data-name="Group 58" transform="translate(261.177 536.668)">
+          <rect id="Rectangle_44-8" data-name="Rectangle 44" width="25.832" height="25.832" transform="translate(0)" fill="#fff"/>
+          <path id="Rectangle_44_-_Outline-8" data-name="Rectangle 44 - Outline" d="M1,1V24.832H24.832V1H1M0,0H25.832V25.832H0Z" transform="translate(0)" fill="#707070"/>
+          <path id="Line_36-8" data-name="Line 36" d="M24.273,24.98-.354.354.354-.354,24.98,24.273Z" transform="translate(0.371 0.586)" fill="#707070"/>
+          <path id="Line_37-8" data-name="Line 37" d="M.354,24.98l-.707-.707L24.273-.354l.707.707Z" transform="translate(0.371 0.586)" fill="#707070"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_243" data-name="Group 243" transform="translate(-544.059 -36.5)">
+      <g id="Group_241" data-name="Group 241" transform="translate(-346.026)">
+        <g id="Group_235" data-name="Group 235">
+          <g id="Group_231" data-name="Group 231">
+            <rect id="Rectangle_461" data-name="Rectangle 461" width="298" height="651" transform="translate(1473 137)" fill="#fff"/>
+            <text id="Lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit._Ut_in_velit_magna._Vestibulum_laoreet_rhoncus_nisi_sit_amet_sollicitudin_elit_tristique_sed._Integer_ullamcorper_sem_ut_interdum_aliquet._Duis_ac_mi_odio._Mauris_iaculis_posue-2" data-name="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut in velit magna. Vestibulum laoreet rhoncus nisi, sit amet sollicitudin elit tristique sed. 
+          &quot;Integer ullamcorper sem ut interdum aliquet.&quot;
+          Duis ac mi odio. Mauris iaculis posue" transform="translate(1491.25 198)" fill="#201d13" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Lorem ipsum dolor sit amet, </tspan><tspan x="0" y="38">consectetur adipiscing elit. Ut in velit </tspan><tspan x="0" y="59">magna. Vestibulum laoreet rhoncus </tspan><tspan x="0" y="80">nisi, sit amet sollicitudin elit tristique </tspan><tspan x="0" y="101">sed. </tspan><tspan x="0" y="122" xml:space="preserve">          &quot;Integer ullamcorper sem ut </tspan><tspan x="0" y="143">interdum aliquet.&quot;</tspan><tspan x="0" y="164" xml:space="preserve">          Duis ac mi odio. Mauris iaculis </tspan><tspan x="0" y="185">posuere leo, eget bibendum nisi </tspan><tspan x="0" y="206">pulvinar sit amet. Curabitur dui nunc, </tspan><tspan x="0" y="227">pretium quis risus vel, lacinia pretium </tspan><tspan x="0" y="248">dui. Praesent interdum nulla vitae </tspan><tspan x="0" y="269">nunc eleifend, ut maximus tellus </tspan><tspan x="0" y="290">cursus. </tspan><tspan x="0" y="311" xml:space="preserve">          Orci varius natoque penatibus </tspan><tspan x="0" y="332">et magnis dis parturient montes, </tspan><tspan x="0" y="353">nascetur ridiculus mus. Cras aliquam </tspan><tspan x="0" y="374">dui purus, sit amet ornare odio </tspan><tspan x="0" y="395">tristique in.</tspan><tspan x="0" y="416" xml:space="preserve">          Pellentesque pharetra </tspan><tspan x="0" y="437">ullamcorper sem, quis convallis </tspan><tspan x="0" y="458">lectus. Mauris urna arcu, maximus et </tspan><tspan x="0" y="479">cursus pharetra, congue sit amet </tspan><tspan x="0" y="500">sapien. Aenean rhoncus magna </tspan><tspan x="0" y="521">lectus, quis ullamcorper ante efficitur </tspan><tspan x="0" y="542">in. Suspendisse id sollicitudin lacus. </tspan></text>
+            <rect id="Rectangle_79" data-name="Rectangle 79" width="300" height="55" transform="translate(1471.25 735)" fill="#fff"/>
+            <path id="Rectangle_28" data-name="Rectangle 28" d="M1,1V652H300V1H1M0,0H301V653H0Z" transform="translate(1471.25 137)" fill="#707070"/>
+            <text id="Activating_Read-Aloud" data-name="Activating Read-Aloud" transform="translate(1471.25 103)" fill="#201d13" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="17">Activating Read-Aloud</tspan></text>
+            <g id="Group_31" data-name="Group 31" transform="translate(1732.544 152)">
+              <rect id="Rectangle_44-9" data-name="Rectangle 44" width="22" height="22" transform="translate(0.207)" fill="#fff"/>
+              <path id="Rectangle_44_-_Outline-9" data-name="Rectangle 44 - Outline" d="M1,1V21H21V1H1M0,0H22V22H0Z" transform="translate(0.207)" fill="#707070"/>
+              <path id="Line_36-9" data-name="Line 36" d="M20.62,21.327-.354.354.354-.354,21.327,20.62Z" transform="translate(0.523 0.499)" fill="#707070"/>
+              <path id="Line_37-9" data-name="Line 37" d="M.354,21.327l-.707-.707L20.62-.354l.707.707Z" transform="translate(0.523 0.499)" fill="#707070"/>
+            </g>
+            <g id="Group_32" data-name="Group 32" transform="translate(1697.544 152)">
+              <rect id="Rectangle_44-10" data-name="Rectangle 44" width="22" height="22" transform="translate(0.207)" fill="#fff"/>
+              <path id="Rectangle_44_-_Outline-10" data-name="Rectangle 44 - Outline" d="M1,1V21H21V1H1M0,0H22V22H0Z" transform="translate(0.207)" fill="#707070"/>
+              <path id="Line_36-10" data-name="Line 36" d="M20.62,21.327-.354.354.354-.354,21.327,20.62Z" transform="translate(0.523 0.499)" fill="#707070"/>
+              <path id="Line_37-10" data-name="Line 37" d="M.354,21.327l-.707-.707L20.62-.354l.707.707Z" transform="translate(0.523 0.499)" fill="#707070"/>
+            </g>
+            <g id="Group_33" data-name="Group 33" transform="translate(1662.544 152)">
+              <rect id="Rectangle_44-11" data-name="Rectangle 44" width="22" height="22" transform="translate(0.207)" fill="#fff"/>
+              <path id="Rectangle_44_-_Outline-11" data-name="Rectangle 44 - Outline" d="M1,1V21H21V1H1M0,0H22V22H0Z" transform="translate(0.207)" fill="#707070"/>
+              <path id="Line_36-11" data-name="Line 36" d="M20.62,21.327-.354.354.354-.354,21.327,20.62Z" transform="translate(0.523 0.499)" fill="#707070"/>
+              <path id="Line_37-11" data-name="Line 37" d="M.354,21.327l-.707-.707L20.62-.354l.707.707Z" transform="translate(0.523 0.499)" fill="#707070"/>
+            </g>
+            <g id="Group_42" data-name="Group 42" transform="translate(1627.544 152)">
+              <rect id="Rectangle_44-12" data-name="Rectangle 44" width="22" height="22" transform="translate(0.207)" fill="#fff"/>
+              <path id="Rectangle_44_-_Outline-12" data-name="Rectangle 44 - Outline" d="M1,1V21H21V1H1M0,0H22V22H0Z" transform="translate(0.207)" fill="#707070"/>
+              <path id="Line_36-12" data-name="Line 36" d="M20.62,21.327-.354.354.354-.354,21.327,20.62Z" transform="translate(0.523 0.499)" fill="#707070"/>
+              <path id="Line_37-12" data-name="Line 37" d="M.354,21.327l-.707-.707L20.62-.354l.707.707Z" transform="translate(0.523 0.499)" fill="#707070"/>
+            </g>
+            <path id="Line_57" data-name="Line 57" d="M300,.5H0v-1H300Z" transform="translate(1471.25 188)" fill="#707070"/>
+            <path id="Line_59" data-name="Line 59" d="M300,.5H0v-1H300Z" transform="translate(1471.25 736)" fill="#707070"/>
+            <path id="Line_58" data-name="Line 58" d="M16,.5H0v-1H16Z" transform="translate(1488.75 162.186)" fill="#201d13"/>
+            <path id="Path_15" data-name="Path 15" d="M5274.66,2686.579l-6.394-6.394,6.394-6.394.707.707-5.687,5.687,5.687,5.687Z" transform="translate(-3780.75 -2518)" fill="#201d13"/>
+            <rect id="Rectangle_78" data-name="Rectangle 78" width="266" height="10" rx="5" transform="translate(1489.25 749)" fill="#fff"/>
+            <path id="Rectangle_78_-_Outline" data-name="Rectangle 78 - Outline" d="M5,1A4,4,0,0,0,5,9H261a4,4,0,0,0,0-8H5M5,0H261a5,5,0,0,1,0,10H5A5,5,0,0,1,5,0Z" transform="translate(1489.25 749)" fill="#707070"/>
+            <text id="_10_pages_left_in_chapter-2" data-name="10 pages left in chapter" transform="translate(1489.25 765)" fill="#201d13" font-size="12" font-family="Roboto-Regular, Roboto"><tspan x="0" y="13">10 pages left in chapter</tspan></text>
+            <text id="Book_title-2" data-name="Book title" transform="translate(1519.25 150)" fill="#201d13" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Book title</tspan></text>
+            <g transform="matrix(1, 0, 0, 1, 890.09, 36.5)" filter="url(#Rectangle_176)">
+              <rect id="Rectangle_176-2" data-name="Rectangle 176" width="266" height="235" transform="translate(614.91 151.5)" fill="#fff"/>
+            </g>
+            <text id="Speed" transform="translate(1526 251)" fill="#201d13" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Speed</tspan></text>
+            <text id="Volume" transform="translate(1526 296)" fill="#201d13" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Volume</tspan></text>
+            <text id="Highlight_text" data-name="Highlight text" transform="translate(1526 338)" fill="#201d13" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Highlight text</tspan></text>
+            <text id="Voice" transform="translate(1526 209)" fill="#201d13" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Voice</tspan></text>
+            <rect id="Rectangle_177" data-name="Rectangle 177" width="52" height="20" rx="10" transform="translate(1701 339)" fill="#a7a7a7"/>
+            <path id="Rectangle_177_-_Outline" data-name="Rectangle 177 - Outline" d="M10,1a9,9,0,0,0,0,18H42A9,9,0,0,0,42,1H10m0-1H42a10,10,0,0,1,0,20H10A10,10,0,0,1,10,0Z" transform="translate(1701 339)" fill="#707070"/>
+            <rect id="Rectangle_178" data-name="Rectangle 178" width="140" height="9" rx="4.5" transform="translate(1613 261)" fill="#a7a7a7"/>
+            <path id="Rectangle_178_-_Outline" data-name="Rectangle 178 - Outline" d="M4.5,1a3.5,3.5,0,0,0,0,7h131a3.5,3.5,0,0,0,0-7H4.5m0-1h131a4.5,4.5,0,0,1,0,9H4.5a4.5,4.5,0,0,1,0-9Z" transform="translate(1613 261)" fill="#707070"/>
+            <rect id="Rectangle_182" data-name="Rectangle 182" width="140" height="9" rx="4.5" transform="translate(1613 302)" fill="#a7a7a7"/>
+            <path id="Rectangle_182_-_Outline" data-name="Rectangle 182 - Outline" d="M4.5,1a3.5,3.5,0,0,0,0,7h131a3.5,3.5,0,0,0,0-7H4.5m0-1h131a4.5,4.5,0,0,1,0,9H4.5a4.5,4.5,0,0,1,0-9Z" transform="translate(1613 302)" fill="#707070"/>
+            <circle id="Ellipse_30" data-name="Ellipse 30" cx="8" cy="8" r="8" transform="translate(1675 258)" fill="#fff"/>
+            <path id="Ellipse_30_-_Outline" data-name="Ellipse 30 - Outline" d="M8,1a7,7,0,1,0,7,7A7.008,7.008,0,0,0,8,1M8,0A8,8,0,1,1,0,8,8,8,0,0,1,8,0Z" transform="translate(1675 258)" fill="#707070"/>
+            <g id="Group_79" data-name="Group 79" transform="translate(1307 -57)">
+              <path id="Rectangle_184" data-name="Rectangle 184" d="M14,1A13,13,0,0,0,4.808,23.192,12.915,12.915,0,0,0,14,27H59A13,13,0,0,0,68.192,4.808,12.915,12.915,0,0,0,59,1H14m0-1H59a14,14,0,0,1,0,28H14A14,14,0,0,1,14,0Z" transform="translate(295 437)" fill="#707070"/>
+              <text id="Start" transform="translate(316 456)" fill="#201d13" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Start</tspan></text>
+            </g>
+            <rect id="Rectangle_183" data-name="Rectangle 183" width="140" height="18" rx="3" transform="translate(1613 212)" fill="#fff"/>
+            <path id="Rectangle_183_-_Outline" data-name="Rectangle 183 - Outline" d="M3,1A2,2,0,0,0,1,3V15a2,2,0,0,0,2,2H137a2,2,0,0,0,2-2V3a2,2,0,0,0-2-2H3M3,0H137a3,3,0,0,1,3,3V15a3,3,0,0,1-3,3H3a3,3,0,0,1-3-3V3A3,3,0,0,1,3,0Z" transform="translate(1613 212)" fill="#707070"/>
+            <text id="Default_male" data-name="Default male" transform="translate(1623 225)" fill="#201d13" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Default male</tspan></text>
+            <rect id="Rectangle_152" data-name="Rectangle 152" width="301" height="140" transform="translate(1471.25 808)" fill="#251f3a"/>
+            <text id="When_the_user_taps_the_Read-Aloud_icon_a_menu_appears_where_they_can_adjust_their_preferences._There_is_a_Start_button_to_play_the_feature_at_the_bottom." data-name="When the user taps the Read-Aloud icon, a menu appears where they can adjust their preferences. There is a Start button to play the feature at the bottom." transform="translate(1489.25 826)" fill="#fefefe" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">When the user taps the Read-Aloud </tspan><tspan x="0" y="38">icon, a menu appears where they can </tspan><tspan x="0" y="59">adjust their preferences. There is a </tspan><tspan x="0" y="80">Start button to play the feature at the </tspan><tspan x="0" y="101">bottom.</tspan></text>
+          </g>
+        </g>
+      </g>
+      <circle id="Ellipse_27" data-name="Ellipse 27" cx="12" cy="12" r="12" transform="translate(1354 337)" fill="#fff"/>
+      <path id="Ellipse_27_-_Outline" data-name="Ellipse 27 - Outline" d="M12,1A11,11,0,0,0,4.222,19.778,11,11,0,0,0,19.778,4.222,10.928,10.928,0,0,0,12,1m0-1A12,12,0,1,1,0,12,12,12,0,0,1,12,0Z" transform="translate(1354 337)" fill="#707070"/>
+      <circle id="Ellipse_32" data-name="Ellipse 32" cx="8" cy="8" r="8" transform="translate(1318 298)" fill="#fff"/>
+      <path id="Ellipse_32_-_Outline" data-name="Ellipse 32 - Outline" d="M8,1a7,7,0,1,0,7,7A7.008,7.008,0,0,0,8,1M8,0A8,8,0,1,1,0,8,8,8,0,0,1,8,0Z" transform="translate(1318 298)" fill="#707070"/>
+      <path id="Polygon_2" data-name="Polygon 2" d="M4,0,8,7H0Z" transform="translate(1400 225) rotate(180)" fill="#707070"/>
+      <path id="Polygon_2_-_Outline" data-name="Polygon 2 - Outline" d="M4,2.016,1.723,6H6.277L4,2.016M4,0,8,7H0Z" transform="translate(1400 225) rotate(180)" fill="#707070"/>
+    </g>
+    <g id="Group_242" data-name="Group 242" transform="translate(66.27 -36.5)">
+      <g id="Group_234" data-name="Group 234">
+        <rect id="Rectangle_461-2" data-name="Rectangle 461" width="300" height="652" transform="translate(956 136)" fill="#fff"/>
+        <rect id="Rectangle_41" data-name="Rectangle 41" width="301" height="246" transform="translate(955.736 804)" fill="#251f3a"/>
+        <rect id="Rectangle_80" data-name="Rectangle 80" width="266" height="18" transform="translate(970.736 201)" fill="#e6e6e6"/>
+        <rect id="Rectangle_90" data-name="Rectangle 90" width="225" height="18" transform="translate(1011.736 348)" fill="#e6e6e6"/>
+        <rect id="Rectangle_83" data-name="Rectangle 83" width="266" height="18" transform="translate(970.736 243)" fill="#e6e6e6"/>
+        <rect id="Rectangle_88" data-name="Rectangle 88" width="266" height="18" transform="translate(970.736 390)" fill="#e6e6e6"/>
+        <rect id="Rectangle_92" data-name="Rectangle 92" width="237" height="18" transform="translate(970.736 453)" fill="#e6e6e6"/>
+        <rect id="Rectangle_86" data-name="Rectangle 86" width="200" height="18" transform="translate(1013.736 306)" fill="#e6e6e6"/>
+        <rect id="Rectangle_81" data-name="Rectangle 81" width="266" height="18" transform="translate(970.736 222)" fill="#e6e6e6"/>
+        <rect id="Rectangle_89" data-name="Rectangle 89" width="266" height="18" transform="translate(970.736 369)" fill="#e6e6e6"/>
+        <rect id="Rectangle_93" data-name="Rectangle 93" width="246" height="18" transform="translate(970.736 432)" fill="#e6e6e6"/>
+        <rect id="Rectangle_82" data-name="Rectangle 82" width="266" height="18" transform="translate(970.736 264)" fill="#e6e6e6"/>
+        <rect id="Rectangle_87" data-name="Rectangle 87" width="266" height="18" transform="translate(970.736 411)" fill="#e6e6e6"/>
+        <rect id="Rectangle_91" data-name="Rectangle 91" width="56" height="18" transform="translate(970.736 474)" fill="#e6e6e6"/>
+        <rect id="Rectangle_85" data-name="Rectangle 85" width="130" height="18" transform="translate(970.736 327)" fill="#e6e6e6"/>
+        <rect id="Rectangle_84" data-name="Rectangle 84" width="36" height="18" transform="translate(970.736 285)" fill="#e6e6e6"/>
+        <text id="Lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit._Ut_in_velit_magna._Vestibulum_laoreet_rhoncus_nisi_sit_amet_sollicitudin_elit_tristique_sed._Integer_ullamcorper_sem_ut_interdum_aliquet._Duis_ac_mi_odio._Mauris_iaculis_posue-3" data-name="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut in velit magna. Vestibulum laoreet rhoncus nisi, sit amet sollicitudin elit tristique sed. 
+          &quot;Integer ullamcorper sem ut interdum aliquet.&quot;
+          Duis ac mi odio. Mauris iaculis posue" transform="translate(974.736 198)" fill="#201d13" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Lorem ipsum dolor sit amet, </tspan><tspan x="0" y="38">consectetur adipiscing elit. Ut in velit </tspan><tspan x="0" y="59">magna. Vestibulum laoreet rhoncus </tspan><tspan x="0" y="80">nisi, sit amet sollicitudin elit tristique </tspan><tspan x="0" y="101">sed. </tspan><tspan x="0" y="122" xml:space="preserve">          &quot;Integer ullamcorper sem ut </tspan><tspan x="0" y="143">interdum aliquet.&quot;</tspan><tspan x="0" y="164" xml:space="preserve">          Duis ac mi odio. Mauris iaculis </tspan><tspan x="0" y="185">posuere leo, eget bibendum nisi </tspan><tspan x="0" y="206">pulvinar sit amet. Curabitur dui nunc, </tspan><tspan x="0" y="227">pretium quis risus vel, lacinia pretium </tspan><tspan x="0" y="248">dui. Praesent interdum nulla vitae </tspan><tspan x="0" y="269">nunc eleifend, ut maximus tellus </tspan><tspan x="0" y="290">cursus. </tspan><tspan x="0" y="311" xml:space="preserve">          Orci varius natoque penatibus </tspan><tspan x="0" y="332">et magnis dis parturient montes, </tspan><tspan x="0" y="353">nascetur ridiculus mus. Cras aliquam </tspan><tspan x="0" y="374">dui purus, sit amet ornare odio </tspan><tspan x="0" y="395">tristique in.</tspan><tspan x="0" y="416" xml:space="preserve">          Pellentesque pharetra </tspan><tspan x="0" y="437">ullamcorper sem, quis convallis </tspan><tspan x="0" y="458">lectus. Mauris urna arcu, maximus et </tspan><tspan x="0" y="479">cursus pharetra, congue sit amet </tspan><tspan x="0" y="500">sapien. Aenean rhoncus magna </tspan><tspan x="0" y="521">lectus, quis ullamcorper ante efficitur </tspan><tspan x="0" y="542">in. Suspendisse id sollicitudin lacus. </tspan><tspan x="0" y="563">Aliquam a ex semper, aliquet libero </tspan></text>
+        <path id="Rectangle_29" data-name="Rectangle 29" d="M1,1V652H300V1H1M0,0H301V653H0Z" transform="translate(955.736 137)" fill="#707070"/>
+        <text id="Completion_Highlighting" data-name="Completion Highlighting" transform="translate(955.736 103)" fill="#201d13" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="17">Completion Highlighting</tspan></text>
+        <text id="Once_the_user_taps_the_screen_to_begin_reading_the_header_and_footer_disappear_to_focus_on_the_reading_experience._With_the_screen_in_this_focus_mode_the_user_can_tap_each_paragraph_to_highlight_mark_that_they_have_finished_reading_it._After_the_whole_" data-name="Once the user taps the screen to begin reading, the header and footer disappear to focus on the reading experience. With the screen in this &quot;focus&quot; mode, the user can tap each paragraph to highlight/mark that they have finished reading it. After the whole " transform="translate(970.736 822)" fill="#fefefe" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Once the user taps the screen to begin </tspan><tspan x="0" y="38">reading, the header and footer </tspan><tspan x="0" y="59">disappear to focus on the reading </tspan><tspan x="0" y="80">experience. With the screen in this </tspan><tspan x="0" y="101">&quot;focus&quot; mode, the user can tap each </tspan><tspan x="0" y="122">paragraph to highlight/mark that they </tspan><tspan x="0" y="143">have finished reading it. After the </tspan><tspan x="0" y="164">whole page is marked, it will </tspan><tspan x="0" y="185">automatically proceed to the next </tspan><tspan x="0" y="206">page.</tspan></text>
+        <text id="Chapter_1" data-name="Chapter 1" transform="translate(1067.736 164)" fill="#201d13" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="17">Chapter 1</tspan></text>
+        <path id="Line_79" data-name="Line 79" d="M32.631,36.338l-.565-.617.737-.676.565.617ZM30.039,33.51,28.012,31.3l.737-.676,2.027,2.211Zm-4.054-4.423-2.027-2.211.737-.676,2.027,2.211ZM21.93,24.664,19.9,22.452l.737-.676,2.027,2.211Zm-4.054-4.423L15.849,18.03l.737-.676,2.027,2.211Zm-4.054-4.423-2.027-2.211.737-.676,2.027,2.211ZM9.767,11.4,7.74,9.184l.737-.676L10.5,10.719ZM5.713,6.972,3.686,4.761l.737-.676L6.45,6.3ZM1.659,2.549-.369.338.369-.338,2.4,1.874Z" transform="translate(1223.236 137.5)" fill="#707070"/>
+      </g>
+    </g>
+    <g id="Group_244" data-name="Group 244" transform="translate(907.941 -36)">
+      <rect id="Rectangle_462" data-name="Rectangle 462" width="301" height="651" transform="translate(555 137)" fill="#fff"/>
+      <circle id="Ellipse_78" data-name="Ellipse 78" cx="43" cy="43" r="43" transform="translate(578 317.656)" fill="#707070"/>
+      <path id="Ellipse_78_-_Outline" data-name="Ellipse 78 - Outline" d="M43,1A42.011,42.011,0,0,0,26.652,81.7a42.011,42.011,0,0,0,32.7-77.4A41.736,41.736,0,0,0,43,1m0-1A43,43,0,1,1,0,43,43,43,0,0,1,43,0Z" transform="translate(578 317.656)" fill="#201d13"/>
+      <path id="Path_37" data-name="Path 37" d="M10202.773,2860.835l-9.051-7.156,9.051-4.21,5.263,4.21Z" transform="translate(-9552 -2470)" fill="#fff"/>
+      <path id="Path_38" data-name="Path 38" d="M10193.672,2854.1l13.762,1.3,6.639-13.438-3.985-5.244-5.244-6.9Z" transform="translate(-9552 -2470)" fill="#fff"/>
+      <path id="Path_39" data-name="Path 39" d="M10214.651,2844.67l-9.92-1.268c1.888-14.774-.486-26.16-7.056-33.841-8.641-10.1-22.046-10.6-22.181-10.6l.225-10c.723.015,17.841.517,29.456,13.986C10213.733,2812.868,10216.921,2826.906,10214.651,2844.67Z" transform="translate(-9552 -2470)" fill="#fefefe"/>
+      <path id="Ellipse_79" data-name="Ellipse 79" d="M43,1A42.011,42.011,0,0,0,26.652,81.7a42.011,42.011,0,0,0,32.7-77.4A41.736,41.736,0,0,0,43,1m0-1A43,43,0,1,1,0,43,43,43,0,0,1,43,0Z" transform="translate(578 317.5)" fill="#201d13"/>
+      <text id="Progress_Tracker_in-progress_" data-name="Progress Tracker (in-progress)" transform="translate(555.25 103)" fill="#201d13" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="17">Progress Tracker (in-progress)</tspan></text>
+      <g id="Group_131" data-name="Group 131" transform="translate(816.5 145)">
+        <rect id="Rectangle_44-13" data-name="Rectangle 44" width="22" height="22" fill="#fff"/>
+        <path id="Rectangle_44_-_Outline-13" data-name="Rectangle 44 - Outline" d="M1,1V21H21V1H1M0,0H22V22H0Z" fill="#707070"/>
+        <path id="Line_36-13" data-name="Line 36" d="M20.62,21.327-.354.354.354-.354,21.327,20.62Z" transform="translate(0.316 0.499)" fill="#707070"/>
+        <path id="Line_37-13" data-name="Line 37" d="M.354,21.327l-.707-.707L20.62-.354l.707.707Z" transform="translate(0.316 0.499)" fill="#707070"/>
+      </g>
+      <g id="Group_129" data-name="Group 129" transform="translate(555 726.5)">
+        <path id="Line_35" data-name="Line 35" d="M301,.5H0v-1H301Z" fill="#707070"/>
+        <g id="Group_3" data-name="Group 3" transform="translate(21.5 9.5)">
+          <rect id="Rectangle_44-14" data-name="Rectangle 44" width="25" height="25" fill="#fff"/>
+          <path id="Rectangle_44_-_Outline-14" data-name="Rectangle 44 - Outline" d="M1,1V24H24V1H1M0,0H25V25H0Z" fill="#707070"/>
+          <path id="Line_36-14" data-name="Line 36" d="M23.313,24.02-.354.354.354-.354,24.02,23.313Z" transform="translate(0.563 0.563)" fill="#707070"/>
+          <path id="Line_37-14" data-name="Line 37" d="M.354,24.02l-.707-.707L23.313-.354l.707.707Z" transform="translate(0.563 0.563)" fill="#707070"/>
+        </g>
+        <g id="Group_4" data-name="Group 4" transform="translate(80.5 9.5)">
+          <rect id="Rectangle_44-15" data-name="Rectangle 44" width="25" height="25" fill="#fff"/>
+          <path id="Rectangle_44_-_Outline-15" data-name="Rectangle 44 - Outline" d="M1,1V24H24V1H1M0,0H25V25H0Z" fill="#707070"/>
+          <path id="Line_36-15" data-name="Line 36" d="M23.313,24.02-.354.354.354-.354,24.02,23.313Z" transform="translate(0.278 0.563)" fill="#707070"/>
+          <path id="Line_37-15" data-name="Line 37" d="M.354,24.02l-.707-.707L23.313-.354l.707.707Z" transform="translate(0.278 0.563)" fill="#707070"/>
+        </g>
+        <g id="Group_5" data-name="Group 5" transform="translate(139.5 9.5)">
+          <rect id="Rectangle_44-16" data-name="Rectangle 44" width="25" height="25" fill="#fff"/>
+          <path id="Rectangle_44_-_Outline-16" data-name="Rectangle 44 - Outline" d="M1,1V24H24V1H1M0,0H25V25H0Z" fill="#707070"/>
+          <path id="Line_36-16" data-name="Line 36" d="M23.313,24.02-.354.354.354-.354,24.02,23.313Z" transform="translate(0.643 0.563)" fill="#707070"/>
+          <path id="Line_37-16" data-name="Line 37" d="M.354,24.02l-.707-.707L23.313-.354l.707.707Z" transform="translate(0.643 0.563)" fill="#707070"/>
+        </g>
+        <g id="Group_6" data-name="Group 6" transform="translate(198.5 9.5)">
+          <rect id="Rectangle_44-17" data-name="Rectangle 44" width="25" height="25" fill="#fff"/>
+          <path id="Rectangle_44_-_Outline-17" data-name="Rectangle 44 - Outline" d="M1,1V24H24V1H1M0,0H25V25H0Z" fill="#707070"/>
+          <path id="Line_36-17" data-name="Line 36" d="M23.313,24.02-.354.354.354-.354,24.02,23.313Z" transform="translate(0.5 0.563)" fill="#707070"/>
+          <path id="Line_37-17" data-name="Line 37" d="M.354,24.02l-.707-.707L23.313-.354l.707.707Z" transform="translate(0.5 0.563)" fill="#707070"/>
+        </g>
+        <g id="Group_7" data-name="Group 7" transform="translate(257.5 9.5)">
+          <rect id="Rectangle_44-18" data-name="Rectangle 44" width="25" height="25" fill="#fff"/>
+          <path id="Rectangle_44_-_Outline-18" data-name="Rectangle 44 - Outline" d="M1,1V24H24V1H1M0,0H25V25H0Z" fill="#707070"/>
+          <path id="Line_36-18" data-name="Line 36" d="M23.313,24.02-.354.354.354-.354,24.02,23.313Z" transform="translate(0.357 0.563)" fill="#707070"/>
+          <path id="Line_37-18" data-name="Line 37" d="M.354,24.02l-.707-.707L23.313-.354l.707.707Z" transform="translate(0.357 0.563)" fill="#707070"/>
+        </g>
+        <text id="Home" transform="translate(19.5 34.5)" fill="#201d13" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="-13.447" y="10">Home</tspan></text>
+        <text id="Top_Charts" data-name="Top Charts" transform="translate(65.5 34.5)" fill="#201d13" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="-24.39" y="10">Top Charts</tspan></text>
+        <text id="Search" transform="translate(124.5 34.5)" fill="#201d13" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="-15.352" y="10">Search</tspan></text>
+        <text id="Saved" transform="translate(183.5 34.5)" fill="#201d13" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="-13.54" y="10">Saved</tspan></text>
+        <text id="Account" transform="translate(242.5 34.5)" fill="#201d13" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="-18.496" y="10">Account</tspan></text>
+      </g>
+      <path id="Line_163" data-name="Line 163" d="M16,.5H0v-1H16Z" transform="translate(572.5 159.186)" fill="#201d13"/>
+      <text id="Book_title-3" data-name="Book title" transform="translate(599 147)" fill="#201d13" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Book title</tspan></text>
+      <path id="Path_36" data-name="Path 36" d="M5274.66,2686.579l-6.394-6.394,6.394-6.394.707.707-5.687,5.687,5.687,5.687Z" transform="translate(-4697 -2521)" fill="#201d13"/>
+      <g id="Group_123" data-name="Group 123" transform="translate(603 227.586)">
+        <rect id="Rectangle_44-19" data-name="Rectangle 44" width="16" height="16" transform="translate(0 -0.086)" fill="#fff"/>
+        <path id="Rectangle_44_-_Outline-19" data-name="Rectangle 44 - Outline" d="M1,1V15H15V1H1M0,0H16V16H0Z" transform="translate(0 -0.086)" fill="#707070"/>
+        <path id="Line_36-19" data-name="Line 36" d="M14.9,15.607-.354.354.354-.354,15.607,14.9Z" transform="translate(0.23 0.363)" fill="#707070"/>
+        <path id="Line_37-19" data-name="Line 37" d="M.354,15.607-.354,14.9,14.9-.354l.707.707Z" transform="translate(0.23 0.363)" fill="#707070"/>
+      </g>
+      <g id="Group_124" data-name="Group 124" transform="translate(695 227.586)">
+        <rect id="Rectangle_44-20" data-name="Rectangle 44" width="16" height="16" transform="translate(0 -0.086)" fill="#fff"/>
+        <path id="Rectangle_44_-_Outline-20" data-name="Rectangle 44 - Outline" d="M1,1V15H15V1H1M0,0H16V16H0Z" transform="translate(0 -0.086)" fill="#707070"/>
+        <path id="Line_36-20" data-name="Line 36" d="M14.9,15.607-.354.354.354-.354,15.607,14.9Z" transform="translate(0.23 0.363)" fill="#707070"/>
+        <path id="Line_37-20" data-name="Line 37" d="M.354,15.607-.354,14.9,14.9-.354l.707.707Z" transform="translate(0.23 0.363)" fill="#707070"/>
+      </g>
+      <g id="Group_130" data-name="Group 130" transform="translate(788 227.586)">
+        <rect id="Rectangle_44-21" data-name="Rectangle 44" width="16" height="16" transform="translate(0 -0.086)" fill="#fff"/>
+        <path id="Rectangle_44_-_Outline-21" data-name="Rectangle 44 - Outline" d="M1,1V15H15V1H1M0,0H16V16H0Z" transform="translate(0 -0.086)" fill="#707070"/>
+        <path id="Line_36-21" data-name="Line 36" d="M14.9,15.607-.354.354.354-.354,15.607,14.9Z" transform="translate(0.23 0.363)" fill="#707070"/>
+        <path id="Line_37-21" data-name="Line 37" d="M.354,15.607-.354,14.9,14.9-.354l.707.707Z" transform="translate(0.23 0.363)" fill="#707070"/>
+      </g>
+      <path id="Line_164" data-name="Line 164" d="M267,.5H0v-1H267Z" transform="translate(568 273.5)" fill="#707070"/>
+      <path id="Line_165" data-name="Line 165" d="M.5,33h-1V0h1Z" transform="translate(656 232.5)" fill="#707070"/>
+      <path id="Line_166" data-name="Line 166" d="M.5,33h-1V0h1Z" transform="translate(751 232.5)" fill="#707070"/>
+      <text id="Your_Progress" data-name="Your Progress" transform="translate(571 286.5)" fill="#201d13" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Your Progress</tspan></text>
+      <text id="Current:_Chapter_9" data-name="Current: Chapter 9" transform="translate(571 414.5)" fill="#201d13" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Current: Chapter 9</tspan></text>
+      <text id="Finished_Chapters" data-name="Finished Chapters" transform="translate(571 469.5)" fill="#201d13" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Finished Chapters</tspan></text>
+      <text id="Description" transform="translate(627 180.5)" fill="#201d13" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-40.465" y="17">Description</tspan></text>
+      <text id="Download" transform="translate(585 247.5)" fill="#201d13" font-size="12" font-family="Roboto-Regular, Roboto"><tspan x="0" y="13">Download</tspan></text>
+      <text id="Save" transform="translate(625 247.5)" fill="#201d13" font-size="12" font-family="Roboto-Regular, Roboto"><tspan x="-12.864" y="13">Save</tspan></text>
+      <text id="Add_to_List" data-name="Add to List" transform="translate(720 247.5)" fill="#201d13" font-size="12" font-family="Roboto-Regular, Roboto"><tspan x="-28.714" y="13">Add to List</tspan></text>
+      <circle id="Ellipse_80" data-name="Ellipse 80" cx="32.5" cy="32.5" r="32.5" transform="translate(588 327.669)" fill="#fff"/>
+      <path id="Ellipse_80_-_Outline" data-name="Ellipse 80 - Outline" d="M32.5,1A31.509,31.509,0,0,0,20.239,61.525,31.508,31.508,0,0,0,44.761,3.475,31.3,31.3,0,0,0,32.5,1m0-1A32.5,32.5,0,1,1,0,32.5,32.5,32.5,0,0,1,32.5,0Z" transform="translate(588 327.669)" fill="#201d13"/>
+      <circle id="Ellipse_81" data-name="Ellipse 81" cx="32.5" cy="32.5" r="32.5" transform="translate(588 327.692)" fill="#fff"/>
+      <path id="Ellipse_81_-_Outline" data-name="Ellipse 81 - Outline" d="M32.5,1A31.509,31.509,0,0,0,20.239,61.525,31.508,31.508,0,0,0,44.761,3.475,31.3,31.3,0,0,0,32.5,1m0-1A32.5,32.5,0,1,1,0,32.5,32.5,32.5,0,0,1,32.5,0Z" transform="translate(588 327.692)" fill="#201d13"/>
+      <text id="_60_" data-name="60%" transform="translate(608.617 366.692)" fill="#201d13" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">60%</tspan></text>
+      <rect id="Rectangle_279" data-name="Rectangle 279" width="266" height="10" rx="5" transform="translate(572.5 443.922)" fill="#fefefe"/>
+      <path id="Rectangle_279_-_Outline" data-name="Rectangle 279 - Outline" d="M5,1A4,4,0,0,0,5,9H261a4,4,0,0,0,0-8H5M5,0H261a5,5,0,0,1,0,10H5A5,5,0,0,1,5,0Z" transform="translate(572.5 443.922)" fill="#201d13"/>
+      <rect id="Rectangle_280" data-name="Rectangle 280" width="266" height="10" rx="5" transform="translate(572.5 540.429)" fill="#707070"/>
+      <path id="Rectangle_280_-_Outline" data-name="Rectangle 280 - Outline" d="M5,1A4,4,0,0,0,5,9H261a4,4,0,0,0,0-8H5M5,0H261a5,5,0,0,1,0,10H5A5,5,0,0,1,5,0Z" transform="translate(572.5 540.429)" fill="#201d13"/>
+      <rect id="Rectangle_281" data-name="Rectangle 281" width="266" height="10" rx="5" transform="translate(572.5 599.172)" fill="#707070"/>
+      <path id="Rectangle_281_-_Outline" data-name="Rectangle 281 - Outline" d="M5,1A4,4,0,0,0,5,9H261a4,4,0,0,0,0-8H5M5,0H261a5,5,0,0,1,0,10H5A5,5,0,0,1,5,0Z" transform="translate(572.5 599.172)" fill="#201d13"/>
+      <rect id="Rectangle_282" data-name="Rectangle 282" width="266" height="10" rx="5" transform="translate(572.5 657.915)" fill="#707070"/>
+      <path id="Rectangle_282_-_Outline" data-name="Rectangle 282 - Outline" d="M5,1A4,4,0,0,0,5,9H261a4,4,0,0,0,0-8H5M5,0H261a5,5,0,0,1,0,10H5A5,5,0,0,1,5,0Z" transform="translate(572.5 657.915)" fill="#201d13"/>
+      <rect id="Rectangle_284" data-name="Rectangle 284" width="266" height="10" rx="5" transform="translate(572.5 716.658)" fill="#707070"/>
+      <path id="Rectangle_284_-_Outline" data-name="Rectangle 284 - Outline" d="M5,1A4,4,0,0,0,5,9H261a4,4,0,0,0,0-8H5M5,0H261a5,5,0,0,1,0,10H5A5,5,0,0,1,5,0Z" transform="translate(572.5 716.658)" fill="#201d13"/>
+      <text id="_14_pages_left_" data-name="14 pages left " transform="translate(711.5 416.493)" fill="#201d13" font-size="12" font-family="Roboto-Regular, Roboto"><tspan x="-69.311" y="13">14 pages left </tspan></text>
+      <text id="_10_10_pages_read" data-name="10/10 pages read" transform="translate(711.5 514.5)" fill="#201d13" font-size="12" font-family="Roboto-Regular, Roboto"><tspan x="-94.09" y="13">10/10 pages read</tspan></text>
+      <text id="_25_25_pages_read" data-name="25/25 pages read" transform="translate(711.5 573.243)" fill="#201d13" font-size="12" font-family="Roboto-Regular, Roboto"><tspan x="-94.09" y="13">25/25 pages read</tspan></text>
+      <text id="_18_18_pages_read" data-name="18/18 pages read" transform="translate(711.5 631.986)" fill="#201d13" font-size="12" font-family="Roboto-Regular, Roboto"><tspan x="-94.09" y="13">18/18 pages read</tspan></text>
+      <text id="_21_21_pages_read" data-name="21/21 pages read" transform="translate(711.5 690.729)" fill="#201d13" font-size="12" font-family="Roboto-Regular, Roboto"><tspan x="-94.09" y="13">21/21 pages read</tspan></text>
+      <text id="Keep_it_up_You_re_more_than_halfway_finished." data-name="Keep it up! You&apos;re more than halfway finished." transform="translate(711.5 336.656)" fill="#201d13" font-size="12" font-family="Roboto-Regular, Roboto"><tspan x="0" y="13">Keep it up! You&apos;re </tspan><tspan x="0" y="29">more than halfway </tspan><tspan x="0" y="45">finished.</tspan></text>
+      <path id="Polygon_11" data-name="Polygon 11" d="M5.5,0,11,7H0Z" transform="translate(688 478)" fill="#707070"/>
+      <path id="Polygon_11_-_Outline" data-name="Polygon 11 - Outline" d="M5.5,1.619,2.057,6H8.943L5.5,1.619M5.5,0,11,7H0Z" transform="translate(688 478)" fill="#707070"/>
+      <path id="Polygon_12" data-name="Polygon 12" d="M5.5,0,11,7H0Z" transform="translate(688 480)" fill="#fefefe"/>
+      <g id="Group_122" data-name="Group 122" transform="translate(391 -26)">
+        <path id="Rectangle_51" data-name="Rectangle 51" d="M1,1V652H300V1H1M0,0H301V653H0Z" transform="translate(164 163)" fill="#707070"/>
+        <path id="Line_48" data-name="Line 48" d="M300,.5H0v-1H300Z" transform="translate(164 207)" fill="#707070"/>
+        <path id="Rectangle_74" data-name="Rectangle 74" d="M9,1A8.009,8.009,0,0,0,1,9V24a8.009,8.009,0,0,0,8,8H255a8.009,8.009,0,0,0,8-8V9a8.009,8.009,0,0,0-8-8H9M9,0H255a9,9,0,0,1,9,9V24a9,9,0,0,1-9,9H9a9,9,0,0,1-9-9V9A9,9,0,0,1,9,0Z" transform="translate(180 200.5)" fill="#707070"/>
+        <rect id="Rectangle_261" data-name="Rectangle 261" width="276" height="11" transform="translate(177 196)" fill="#fff"/>
+        <path id="Line_154" data-name="Line 154" d="M295,.5H0v-1H295Z" transform="translate(165 207)" fill="#707070"/>
+      </g>
+      <text id="Chapter_1-2" data-name="Chapter 1" transform="translate(573 513)" fill="#201d13" font-size="12" font-family="Roboto-Regular, Roboto" text-decoration="underline"><tspan x="0" y="13">Chapter 1</tspan></text>
+      <text id="Chapter_2" data-name="Chapter 2" transform="translate(573 571.743)" fill="#201d13" font-size="12" font-family="Roboto-Regular, Roboto" text-decoration="underline"><tspan x="0" y="13">Chapter 2</tspan></text>
+      <text id="Chapter_3" data-name="Chapter 3" transform="translate(573 630.486)" fill="#201d13" font-size="12" font-family="Roboto-Regular, Roboto" text-decoration="underline"><tspan x="0" y="13">Chapter 3</tspan></text>
+      <text id="Chapter_4" data-name="Chapter 4" transform="translate(573 689.229)" fill="#201d13" font-size="12" font-family="Roboto-Regular, Roboto" text-decoration="underline"><tspan x="0" y="13">Chapter 4</tspan></text>
+      <g id="Group_125" data-name="Group 125" transform="translate(391 -26)">
+        <circle id="Ellipse_70" data-name="Ellipse 70" cx="6.5" cy="6.5" r="6.5" transform="translate(245 542)" fill="#707070"/>
+        <path id="Ellipse_70_-_Outline" data-name="Ellipse 70 - Outline" d="M6.5,1A5.5,5.5,0,1,0,12,6.5,5.506,5.506,0,0,0,6.5,1m0-1A6.5,6.5,0,1,1,0,6.5,6.5,6.5,0,0,1,6.5,0Z" transform="translate(245 542)" fill="#707070"/>
+        <path id="Path_30" data-name="Path 30" d="M10193.52,2996.661l-.4-.525-2.181-2.834.793-.61,1.776,2.31,4.359-5.878.8.6Z" transform="translate(-9943.298 -2444)" fill="#fefefe"/>
+      </g>
+      <g id="Group_126" data-name="Group 126" transform="translate(391 92)">
+        <circle id="Ellipse_70-2" data-name="Ellipse 70" cx="6.5" cy="6.5" r="6.5" transform="translate(245 542)" fill="#707070"/>
+        <path id="Ellipse_70_-_Outline-2" data-name="Ellipse 70 - Outline" d="M6.5,1A5.5,5.5,0,1,0,12,6.5,5.506,5.506,0,0,0,6.5,1m0-1A6.5,6.5,0,1,1,0,6.5,6.5,6.5,0,0,1,6.5,0Z" transform="translate(245 542)" fill="#707070"/>
+        <path id="Path_30-2" data-name="Path 30" d="M10193.52,2996.661l-.4-.525-2.181-2.834.793-.61,1.776,2.31,4.359-5.878.8.6Z" transform="translate(-9943.298 -2444)" fill="#fefefe"/>
+      </g>
+      <g id="Group_127" data-name="Group 127" transform="translate(391 33)">
+        <circle id="Ellipse_70-3" data-name="Ellipse 70" cx="6.5" cy="6.5" r="6.5" transform="translate(245 542)" fill="#707070"/>
+        <path id="Ellipse_70_-_Outline-3" data-name="Ellipse 70 - Outline" d="M6.5,1A5.5,5.5,0,1,0,12,6.5,5.506,5.506,0,0,0,6.5,1m0-1A6.5,6.5,0,1,1,0,6.5,6.5,6.5,0,0,1,6.5,0Z" transform="translate(245 542)" fill="#707070"/>
+        <path id="Path_30-3" data-name="Path 30" d="M10193.52,2996.661l-.4-.525-2.181-2.834.793-.61,1.776,2.31,4.359-5.878.8.6Z" transform="translate(-9943.298 -2444)" fill="#fefefe"/>
+      </g>
+      <g id="Group_128" data-name="Group 128" transform="translate(391 151)">
+        <circle id="Ellipse_70-4" data-name="Ellipse 70" cx="6.5" cy="6.5" r="6.5" transform="translate(245 542)" fill="#707070"/>
+        <path id="Ellipse_70_-_Outline-4" data-name="Ellipse 70 - Outline" d="M6.5,1A5.5,5.5,0,1,0,12,6.5,5.506,5.506,0,0,0,6.5,1m0-1A6.5,6.5,0,1,1,0,6.5,6.5,6.5,0,0,1,6.5,0Z" transform="translate(245 542)" fill="#707070"/>
+        <path id="Path_30-4" data-name="Path 30" d="M10193.52,2996.661l-.4-.525-2.181-2.834.793-.61,1.776,2.31,4.359-5.878.8.6Z" transform="translate(-9943.298 -2444)" fill="#fefefe"/>
+      </g>
+      <rect id="Rectangle_283" data-name="Rectangle 283" width="153" height="10" rx="5" transform="translate(572.5 443.922)" fill="#707070"/>
+      <path id="Rectangle_283_-_Outline" data-name="Rectangle 283 - Outline" d="M5,1A4,4,0,0,0,5,9H148a4,4,0,0,0,0-8H5M5,0H148a5,5,0,0,1,0,10H5A5,5,0,0,1,5,0Z" transform="translate(572.5 443.922)" fill="#201d13"/>
+    </g>
+  </g>
+</svg>
