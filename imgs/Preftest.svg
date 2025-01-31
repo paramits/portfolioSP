@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 214.49 173.99">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 6px;
+      }
+
+      .cls-1, .cls-2 {
+        font-family: Karla-Bold, Karla;
+        font-variation-settings: 'wght' 700;
+        font-weight: 700;
+      }
+
+      .cls-3 {
+        fill: none;
+      }
+
+      .cls-3, .cls-4 {
+        stroke-width: 2px;
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-6 {
+        stroke: #251f3a;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-7 {
+        font-family: Karla-Medium, Karla;
+        font-size: 8px;
+        font-variation-settings: 'wght' 500;
+        font-weight: 500;
+      }
+
+      .cls-2 {
+        font-size: 11px;
+      }
+
+      .cls-4 {
+        fill: #b7efc5;
+      }
+
+      .cls-5 {
+        font-family: Karla-Regular, Karla;
+        font-size: 12px;
+        font-variation-settings: 'wght' 400;
+        stroke-width: .25px;
+      }
+
+      .cls-8 {
+        fill: #251f3a;
+      }
+    </style>
+  </defs>
+  <g>
+    <path class="cls-4" d="M193.46,17.54h-67.79l-13.53-15.99-13.53,15.99H21.03c-5.3,0-9.59,2.98-9.59,6.66v32.65c0,3.68,4.29,6.66,9.59,6.66h172.42c5.3,0,9.59-2.98,9.59-6.66V24.2c0-3.68-4.29-6.66-9.59-6.66Z"/>
+    <text class="cls-5" transform="translate(43.69 45.45)"><tspan x="0" y="0">I like B better because...</tspan></text>
+  </g>
+  <g>
+    <rect class="cls-3" x="117.06" y="79.26" width="96.42" height="93.72" rx="9.9" ry="9.9"/>
+    <rect class="cls-8" x="143.52" y="129.72" width="42.69" height="5.21"/>
+    <rect class="cls-8" x="137.96" y="120.99" width="53.81" height="5.21"/>
+    <g>
+      <circle class="cls-8" cx="25.42" cy="160.19" r="3.28"/>
+      <path class="cls-8" d="M34.94,157.92c1.26,0,2.28,1.02,2.28,2.28s-1.02,2.28-2.28,2.28-2.28-1.02-2.28-2.28,1.02-2.28,2.28-2.28M34.94,156.92c-1.81,0-3.28,1.47-3.28,3.28s1.47,3.28,3.28,3.28,3.28-1.47,3.28-3.28-1.47-3.28-3.28-3.28h0Z"/>
+      <path class="cls-8" d="M44.45,157.92c1.25,0,2.28,1.02,2.28,2.28s-1.02,2.28-2.28,2.28-2.28-1.02-2.28-2.28,1.02-2.28,2.28-2.28M44.45,156.92c-1.81,0-3.28,1.47-3.28,3.28s1.47,3.28,3.28,3.28,3.28-1.47,3.28-3.28-1.47-3.28-3.28-3.28h0Z"/>
+      <path class="cls-8" d="M53.97,157.92c1.25,0,2.28,1.02,2.28,2.28s-1.02,2.28-2.28,2.28-2.28-1.02-2.28-2.28,1.02-2.28,2.28-2.28M53.97,156.92c-1.81,0-3.28,1.47-3.28,3.28s1.47,3.28,3.28,3.28,3.28-1.47,3.28-3.28-1.47-3.28-3.28-3.28h0Z"/>
+      <path class="cls-8" d="M63.49,157.92c1.26,0,2.28,1.02,2.28,2.28s-1.02,2.28-2.28,2.28-2.28-1.02-2.28-2.28,1.02-2.28,2.28-2.28M63.49,156.92c-1.81,0-3.28,1.47-3.28,3.28s1.47,3.28,3.28,3.28,3.28-1.47,3.28-3.28-1.47-3.28-3.28-3.28h0Z"/>
+      <path class="cls-8" d="M73.01,157.92c1.25,0,2.28,1.02,2.28,2.28s-1.02,2.28-2.28,2.28-2.28-1.02-2.28-2.28,1.02-2.28,2.28-2.28M73.01,156.92c-1.81,0-3.28,1.47-3.28,3.28s1.47,3.28,3.28,3.28,3.28-1.47,3.28-3.28-1.47-3.28-3.28-3.28h0Z"/>
+    </g>
+    <text class="cls-7" transform="translate(125.28 163.55)"><tspan x="0" y="0">PREV</tspan></text>
+    <text class="cls-1" transform="translate(160.19 163.04)"><tspan x="0" y="0">1/6</tspan></text>
+    <text class="cls-7" transform="translate(186.57 163.55)"><tspan x="0" y="0">NEXT</tspan></text>
+    <line class="cls-6" x1="117.06" y1="151.52" x2="213.49" y2="151.52"/>
+    <g>
+      <rect class="cls-3" x="1" y="79.26" width="96.42" height="93.72" rx="9.9" ry="9.9"/>
+      <g>
+        <g>
+          <rect class="cls-8" x="22.42" y="121.06" width="53.81" height="5.21"/>
+          <rect class="cls-8" x="22.42" y="129.78" width="32.14" height="5.21"/>
+        </g>
+        <text class="cls-2" transform="translate(24.64 111.27)"><tspan x="0" y="0">DESIGN A</tspan></text>
+      </g>
+    </g>
+    <text class="cls-2" transform="translate(140.06 111.27)"><tspan x="0" y="0">DESIGN B</tspan></text>
+  </g>
+</svg>
