@@ -4,7 +4,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <title>Hello</title>
+    <title>Everand ADHD Redesign</title>
     <link rel="stylesheet" href="style.css" />
     <!-- FONTS -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -37,7 +37,7 @@
       <div id="projectInfo">
         <div id="projectImg"><img src="imgs/ebook.jpg"></div>
         <div id="projectText">
-          <p class="tag">UX/UI DESIGN, USER RESEARCH</p>
+          <p class="tagWork">ACCESSIBILITY, USER RESEARCH, UX/UI</p>
           <h1>Everand redesign for ADHD users</h1>
           <p>Designing features that improve the experience of using an eBook
             app, making it more accessible to users with ADHD.</p>
@@ -49,11 +49,21 @@
               </div>
               <div class="detail">
                 <h3>ROLE</h3>
-                <p>Designer<br>Researcher</p>
+                <p>UX/UI Designer, Researcher</p>
+              </div>
+              <!-- <div class="detail">
+                <h3>TIME</h3>
+                <p>Sept-Dec 2023</p>
               </div>
               <div class="detail">
+                <h3>TOOLS</h3>
+                <p>Figma</p>
+              </div> -->
+            </div>
+            <div id="details">
+                          <div class="detail">
                 <h3>TIME</h3>
-                <p>3 weeks</p>
+                <p>Sept-Dec 2023</p>
               </div>
               <div class="detail">
                 <h3>TOOLS</h3>
@@ -68,36 +78,46 @@
      <div class="infoContainer">
       <div class="infoText">
         <h2>Background</h2>
-      <p>Everand is a growing digital library app that features much more than
-        just eBooks and audiobooks. Not everybody who uses a reading app does
-        so with leisure. Oftentimes, users of these apps are students who are
-        running on a deadline. <br /><br />Invisible disabilities are
-        especially often overlooked when it comes to designing for
-        accessibility. In this case study, I look at Attention Deficit
-        Hyperactivity Disorder (ADHD) specifically--a neurodevelopmental
-        disorder that affects 2.6% of adults worldwide--and find possible
-        solutions to improve the user experience.</p>
+      <p>Everand is a digital library app that provides eBooks, audiobooks, and more. At the time of this project, <strong>Everand lacked accessibility features</strong>, potentially alienating users from productivity. Within this case study, I look at Attention Deficit Hyperactivity Disorder (ADHD) specifically.</p>
+      <br>
+      <h2 class="genHead">Why did I choose to focus on ADHD?</h2>
+        <p><a href="https://inclusive.microsoft.design/">Microsoft's Inclusive Design</a> methodology believes in the notion of "Solve for One, extend to many." <span id="emText">Invisible disabilities</span> are especially often overlooked when it comes to designing for accessibility. By designing for ADHD which affects 2.6% of adults worldwide, I hope to open up accessibility to a wide range of users.</p>
       </div>
       <div class="strip">
         <div id="stripContents">
         <h3 class="paragraph">PROBLEM STATEMENT</h3>
           <h2 class="everand paragraph">
             “How might we make the Everand reading experience more accessible to
-            people with poor attention?"
+            people with poor attention, improving productivity?"
           </h2>
         </div>
        </div>
 <div class="doubleColumn">
        <div class="infoText">
         <div class="sectionTitle">
-          <h3>ADDED FEATURES</h3>
+          <h3 class="deliverHead">ADDED FEATURES</h3>
           <h2>Final Prototype</h2>
         </div>
-      
-        <img src="imgs/tutorial_h.svg" />
-        <img src="imgs/ra_h.svg" />
-        <img src="imgs/ch_h.svg" />
-        <img src="imgs/pt_h.svg" />
+      <div class="features">
+        <img src="imgs/tutorial_icon.svg" />
+        <div><h4>Tutorial</h4><p>
+          Users are informed of all helpful reading features.</p></div>
+      </div>
+      <div class="features">
+        <img src="imgs/ra_icon.svg" />
+        <div><h4>Read-Aloud</h4><p>
+          The audio-visual pairing improves sustained attention.</p></div>
+      </div>
+      <div class="features">
+        <img src="imgs/hc_icon.svg" />
+        <div><h4>Completion Highlighting</h4><p>
+          Keeps user engaged though increased interaction with the app.</p></div>
+      </div>
+      <div class="features">
+        <img src="imgs/pt_icon.svg" />
+        <div><h4>Progress Tracking</h4><p>
+          Improves motivation and encourages the user to continue their task as they feel rewarded.</p></div>
+      </div>
       </div>
        <div class="prototype">
      
@@ -115,178 +135,236 @@
           <h3>PROCESS</h3>
           <h2>The Journey</h2>
         </div>
-  <p>The project utilized the Double Diamond method as summarized below.</p>
-  <img src="imgs/doublediamond.svg" />
+  <p>The project was broken down into phases following the Double Diamond (colour-coded for convenience!):</p>
+  <div class="projPhases">
+    <div class="phase" id="phase-1">
+      <div class="phaseContents">
+      <h3 id="phaseHeading">Discover</h3>
+      <ul id="phaseDetails">
+        <li>Constraint Mapping</li>
+        <li>User Research</li>
+        <li>Secondary Research</li>
+      </ul>
+    </div>
+    </div>
+    <div class="phase" id="phase-2">
+      <div class="phaseContents">
+        <h3 id="phaseHeading">Define</h3>
+        <ul id="phaseDetails">
+          <li>Research Triangulation</li>
+          <li>Personas</li>
+          <li>Proposed Solution</li>
+        </ul>
+    </div>
+    </div>
+    <div class="phase" id="phase-3">
+      <div class="phaseContents">
+        <h3 id="phaseHeading">Develop</h3>
+      <ul id="phaseDetails">
+          <li>Wireframing</li>
+          <li>UI Style Guide</li>
+          <li>User Testing</li>
+        </ul>
+    </div>
+  </div>
+  <div class="phase" id="phase-4">
+    <div class="phaseContents">
+      <h3 id="phaseHeading">Deliver</h3>
+    <ul id="phaseDetails">
+        <li>Final Design</li>
+        <li>Reflection</li>
+      </ul>
+  </div>
+</div>
+  </div>
+  <!-- <img src="imgs/doublediamond.svg" /> -->
       </div>
       <div class="infoText">
         <div class="sectionTitle">
-          <h3>DISCOVER</h3>
+          <h3 class="discoverHead">DISCOVER</h3>
           <h2>Constraint Mapping</h2>
         </div>
   <p>I began the Discover stage by doing a Constraint Mapping activity
     where I brainstormed permanent, situational, and temporary constraints
-    that users of the app may have. These were adopted from <a href="https://inclusive.microsoft.design/">Microsoft's
-      Inclusive Design</a> principles.</p>
-      <p>After mapping various constraints which include physical disabilities such as vision and motor impairment, I decided to redesign for a mental constraint since most accessibility improvements already address physical impairments rather than mental. More specifically, I chose to focus on attention deficit. </p>
-  <img src="imgs/constraint.png" />
+    that users of the app with ADHD may have. These were also adopted from <a href="https://inclusive.microsoft.design/">Microsoft's
+      Inclusive Design</a> principles and would later help with persona development.</p>
+     
+  <img src="imgs/constraintmap.svg" />
       </div>
-      <div class="infoText">
-        <div class="sectionTitle">
-          <h3>DISCOVER</h3>
-          <h2>KWHL Chart</h2>
-        </div>
-  <p>  Before developing solutions, I needed to gain a deeper understanding
-    of ADHD and how this demographic interacts with technology and
-    reading. I filled out the first three components of a KWHL chart (What I know, need to find, and how I'll be getting the information) to
-    help me get started. </p>
-
-    <p>I had to learn about the general, app-specific, and reading-specific challenges ADHD users face. In addition to this, I wanted to find out about accessibiity features that could be helpful to them. I decided to collect information through a user interview, observation, and secondary research sources. </p>
-      </div>
+   
       <div class="infoText" id="hasSub">
         <div class="sectionTitle"  >
-          <h3>DISCOVER</h3>
+          <h3 class="discoverHead">DISCOVER</h3>
           <h2>Research</h2>
         </div>
-  <p> An individual with diagnosed ADHD was recruited to participate in a
-    semi-structured interview. I asked questions regarding their general
-    experience living with ADHD. This was followed by an exploration of
-    the Everand app and a ten minute task to read the first chapter of a
-    novel of their choice. Afterwards, questions were asked about the
-    experience they just had with the app. Below is an anonymized summary
-    of the interview's key points. </p>
+  <p> Research consisted of User Research (semi-structured interview and observation) and a Literature Review.</p>
       </div>
       <div class="infoText" id="subtitle">
         <div class="sectionTitle">
-          <h2>Interview Summary</h2>
+          <h2 class="discoverHead">User Research</h2>
         </div>
-        <ol>
-          <h3><li>User's experience with ADHD</li></h3>
-        </ol>
-          <ul>
-            <li>
-              Struggles with tasks that take a prolonged period of time or if they aren't awarded immediately.
-            </li>
-            <li>
-              Participant talks
-                about how he manages his ADHD through a planner/checklist,
-                sticking to a routine, and the pressure of time.
-            </li>
-          </ul>
-          <ol start="2">
-            <h3><li>User's experience with Everand</li></h3>
-          </ol>
-            <ul>
-              <li>
-                Finds it easy to navigate due to prior experience with apps. 
-              </li>
-              <li>
-                Found spacing between words to be weird and mentioned how there's no tutorial. 
-              </li>
-              <li>
-                Had some difficulty completing the reading task and said they prefer reading a physical book due to less distractions.  
-              </li>
-            </ul>
-            <ol start="3">
-              <h3><li>Desired Features</li></h3>
-            </ol>
-              <ul>
-                <li>
-                  Suggests a feature 
-where you get rewarded for your 
-reading progress
-                </li>
-                <li>
-                  Suggests highlighting parts of the 
-page/book that you've already 
-read. This would act as a checklist, 
-allowing the user to feel 
-accomplished
-                </li>
-              </ul>
+        <p>The interview and observation took place virtually with a webcam facing the user so I could see their facial expressions and behaviour as they used Everand. Interview questions were asked before and after the observation for which the user was tasked to read a book of their choice for 10 minutes.</p>
+        <img id="interviewImg" src="imgs/interview.svg">
       </div>
-      <div class="infoText" id="subtitle">
-        <div class="sectionTitle">
-          <h2>User Observation</h2>
+      <div class="strip strip-discover ">
+        <div id="stripContents">
+        <h3 class="paragraph">INTERVIEW SUMMARY</h3>
+        <!-- Use this div class in the case of quadrants -->
+         <div class="quad">
+          <div class="duo">
+            <div class="single"><img src="/imgs/experience.svg">
+            <h3>ADHD Experience</h3>
+          <p>User struggles with extended tasks and non-immediate rewards. 
+         </p></div>
+            <div class="single"><img src="/imgs/manage.svg">
+              <h3>Managing ADHD</h3>
+              <p>
+                User manages ADHD using planners, checklists, routines, and time pressures.</p></div>
+          </div>
+          <div class="duo">
+            <div class="single"><img src="/imgs/impressions.svg">
+            <h3>Everand Impressions</h3>
+          <p>Easy navigation due to experience with similar apps. Mentions lack of tutorial. Some difficulty with reading task—prefers physical books due to less distractions.
+         </p></div>
+            <div class="single"><img src="/imgs/desired.svg">
+              <h3>Desired Features</h3>
+              <p>
+                Rewards for reading progress, highlighting parts of the page that have already been read which acts as a checklist to increase feelings of accomplishment.</p></div>
+          </div>
+         </div>
         </div>
-        <p>
-          As the user was performing the reading task, I observed their
-          behaviour and took notes. These notes were then put into a Spradley's
-          Matrix. This data along with the interview results are analyzed in
-          conjunction with the secondary research to draw insights. <a class="workLinks" href=""> View the Spradley's Matrix &#8594; </a>
-        </p>
-        </div>
+       </div>
         <div class="infoText" id="subtitle">
           <div class="sectionTitle">
-            <h2>Secondary Research</h2>
+            <h2 class="discoverHead">Secondary Research</h2>
           </div>
           <p>
             Scholarly articles related to ADHD, reading, and acessibility were
             read. Literature reviews of these articles were made and my key
             findings are as follows:
           </p>
-          <ol>
-            <li>Individuals with attention deficit have poor reading comprehension when reading digitally which is correlated to their decreased sustained attention (Ben-Yehudah and Brann; Stern et al.). </li><br>
+          <ul>
+            <li>Individuals with attention deficit have  <mark class="highlight-discover">poor reading comprehension when reading digitally</mark> which is correlated to their decreased sustained attention (Ben-Yehudah and Brann; Stern et al.). </li><br>
             <li>
-              Text-to-speech may assist people with ADHD understand what they are reading more clearly and have less problems with reading in general (Kyriakaki and Driga 207). 
+              <mark class="highlight-discover">Text-to-speech</mark> may assist people with ADHD understand what they are reading more clearly and have less problems with reading in general (Kyriakaki and Driga 207). 
             </li><br>
-            <li>Reading aids such as reading guides and highlights help people with ADHD concentrate on one line of text at a time, minimizing visual distractions and improving reading comprehension and tracking (Kyriakaki and Driga 207). </li><br>
-            <li>Apps that use strategies including gamification, interactive activities, and audiovisual stimulation provide an organized and encouraging environment for people with ADHD to develop they attention skills by including elements like progress tracking and incentives (Kyriakaki and Driga 208). </li>
+            <li>Reading aids such as <mark class="highlight-discover">reading guides and highlights</mark> help people with ADHD concentrate on one line of text at a time, <mark class="highlight-discover">minimizing visual distractions</mark> and improving reading comprehension and tracking (Kyriakaki and Driga 207). </li><br>
+            <li>Apps that use strategies including <mark class="highlight-discover">gamification, interactive activities, and audiovisual stimulation</mark> provide an organized and encouraging environment for people with ADHD to develop they attention skills by including elements like <mark class="highlight-discover">progress tracking and incentives</mark> (Kyriakaki and Driga 208). </li>
           </ol>
           </div>
           <div class="infoText">
             <div class="sectionTitle">
-              <h3>DEFINE</h3>
+              <h3 class="defineHead">DEFINE</h3>
               <h2>Personas</h2>
             </div>
-      <p> Using data from all research sources about ADHD, I developed three personas to capture each type of contstraint (permanent, temporary, and situational) centered around attention deficit. Each persona can be viewed by using the dot indicator below.</p>
+      <p> Using data from all research sources about ADHD, I developed three personas to capture each type of contstraint (permanent, temporary, and situational) centered around attention deficit. Select the cards below to show/hide more details.</p>
 
-      <div class="sliderWrapper">
-        <div class="slider paragraph">
-          <img class="paragraph" id="slide1" src="imgs/persona.png" />
-          <img class="paragraph" id="slide2" src="imgs/persona3.png" />
-          <img class="paragraph" id="slide3" src="imgs/persona2.png" />
+      <div id="personas">
+        <div class="personaCard" data-value="1" >
+          <div class="pContent1 personaContent ">
+          <h4 id="personaType">Permanent</h4>
+          <img id="personaPic" src="imgs/persona1Img.svg">
+          <h4 id="personaName">Sean Nicols, 22</h4>
+          <p>Full-time gas station attendant, has ADHD</p>
         </div>
-        <div class="sliderNav">
-          <a class="anchor" href="#slide1"></a>
-          <a class="anchor" href="#slide2"></a>
-          <a class="anchor" href="#slide3"></a>
-        </div>
+          <div class="pFull1 personaFull" style="display:none">
+            <img src="imgs/persona.png">
+            </div>
+          </div>
+        
+    
+       
+          <div class="personaCard" data-value="2">
+            <div class="personaContent pContent2">
+            <h4 id="personaType">Situational</h4>
+            <img id="personaPic" src="imgs/persona2Img.svg">
+            <h4 id="personaName">Fiona Hlavach, 26</h4>
+            <p>Full-time bank teller, experiencing grief</p>
+            </div>
+            <div class="personaFull pFull2" style="display:none">
+            <img src="imgs/persona2.png">
+            </div>
+          </div>
+        
+        
+            <div class="personaCard" data-value="3">
+              <div class="personaContent pContent3">
+              <h4 id="personaType">Temporary</h4>
+              <img id="personaPic" src="imgs/persona3Img.svg">
+              <h4 id="personaName">Bradley El-Sawy, 20</h4>
+              <p>3rd year Civil Engineering student, sleep deprived</p>
+              </div>
+              <div class="personaFull pFull3" style="display:none">
+              <img src="imgs/persona3.png">
+              </div>
+            </div>
+           
+
+
       </div>
           </div>
           <div class="infoText">
             <div class="sectionTitle">
-              <h3>DEFINE</h3>
+              <h3 class="defineHead">DEFINE</h3>
               <h2>Proposed Solution</h2>
             </div>
-      <p> Analyzing research and creating personas allowed me to develop a possible solution to solving the users’ mismatched interaction. </p>
-      <p>A venn diagram including all of the possible solutions gathered from each source of research is created. Here, I can hone in on which features are more necessary which have been highlighted in yellow. Although the tutorial was only mentioned on one side, I felt that it should be considered since it increases user-friendliness. According to an NNGroup article, icons weren't sufficient in letting users know what features were available and therefore a tutorial may be a good idea to implement. </p>
-      <img src="imgs/venn.svg">
+      <p> Analyzing research and creating personas allowed me to develop a possible solution to solve the users’ mismatched interaction. </p>
+      <p>A venn diagram including all of the possible solutions gathered from each source of research was created. Here, I can hone in on which features are more necessary. Although the tutorial was only mentioned on one side, I felt that it should be considered since it increases user-friendliness. According to an NNGroup article, icons weren't sufficient in letting users know what features were available and therefore a tutorial may be a good idea to implement. </p>
+      <img id="solutions" src="imgs/solutions.svg">
           </div>
           <div class="infoText">
             <div class="sectionTitle">
-              <h3>DEFINE</h3>
+              <h3 class="developHead">DEVELOP</h3>
               <h2>UI Style Guide</h2>
             </div>
-      <p> As part of the process, I analyzed the styling of the Everand app in order to adapt my features in. Below is a summarized style guide. </p>
+      <p>I analyzed the branding and style of the Everand app in order to adapt my features. Below is a summarized style guide. </p>
       <img src="imgs/styleguide.svg">
           </div>
           <div class="infoText" id="wireframes">
             <div class="sectionTitle">
-              <h3>DEVELOP</h3>
+              <h3 class="developHead">DEVELOP</h3>
               <h2>Wireframes</h2>
             </div>
       <p> Wireframes were created utilizing the style guide. Low-fidelity wireframes were made first and then later shown to the same participant for feedback. High-fidelity wireframes were optimized based on feedback. In the end, a total of 36 screens were created in order to get the final prototype working.</p><br>
-      <h2 id="prototypeTitle">Low-fidelity</h2>
+      <h2 class="developHead" id="prototypeTitle" >Low-fidelity</h2>
       <img src="imgs/lofi.png">
-      <h2 id="prototypeTitle">High-fidelity</h2>
+      <h2 class="developHead" id="prototypeTitle">High-fidelity</h2>
       <img src="imgs/hifi.png">
+          </div>
+          <div class="infoText" >
+            <div class="sectionTitle">
+              <h3 class="developHead">DEVELOP</h3>
+              <h2>User Testing</h2>
+            </div>
+      <p> The same interviewee during the <span id="discoverCol"><strong>Discover</strong></span> phase was contacted again for feedback. A Qualitative Preference Test of the wireframes and a remote Wizard of Oz of a mid-fidelity prototype was conducted.</p><br>
+     
+      <img src="imgs/usertest.svg">
+      <div class="userTestSummary">
+        <h3>OUTCOMES OF TESTING</h3>
+        <ul>
+          <li>Changed copy and UI elements based on both tests</li>
+          <li>Different positioning of elements based on Preference Testing</li>
+          <li>Modification of new functionality (e.g., adding pitch as an option for the Read-Aloud feature)</li>
+        </ul>
+      </div>
           </div>
           <div class="infoText">
             <div class="sectionTitle">
-              <h3>DELIVER</h3>
-              <h2>Reflection</h2>
+              <h3 class="deliverHead">DELIVER</h3>
+              <h2>Final Design</h2>
+              <p>The culmination of research and user testing! The final Everand redesign includes four new features intended to improve productivity of ADHD users but applies to everyone:<br> <span id="emText">Tutorials, Read-Aloud, Completion Highlighting, and Progress Tracking.</span><br><br> A video demo is available below.</p>
+              <video controls>
+                <source src="imgs/Everand Demo.mp4" type="video/mp4">
+              </video>
             </div>
-      <p> Mental disabilities shouldn't be considered less important just because we can't see them. We as designers must consider all possible usability challenges ours users face. Through this project, I gained a better understanding of users with ADHD by working closely with one. This way, I was able to become empathetic with their personal experiences. This project reinforced the importance of research and working with users to reach a solution. Without doing the preliminary research, my solutions would have been totally different.  </p>
+
+          </div>
+          <div class="infoText">
+            <div class="sectionTitle">
+              <h3 class="deliverHead">DELIVER</h3>
+              <h2>Reflection: Designing <em>with</em>, not just <em>for</em> users</h2>
+            </div>
+      <p> Invisible disabilities shouldn't be considered less important just because we can't see them. This project reinforced the importance of preliminary research and working with users to reach a solution. As designers, we must consider all possible usability challenges our users face. I was fortunately able to gain a better understanding of users with ADHD by working closely with one which gave me insights that I would have never considered on my own.  Each user's experiences are unique and each interaction gives us a new perspective to consider when designing.  </p>
           </div>
      </div>
   
@@ -295,7 +373,7 @@ accomplished
       <div id="footerContent">
         <h3>Thank you for visiting!</h3>
         <p>
-          This portfolio was made with HTML, CSS, and Vanilla JS. Let's connect!<br>
+          This portfolio was coded by Sabrina Paramitha (HTML/CSS/JS). Let's connect!<br>
           <a href="https://www.linkedin.com/in/paramits/">LINKEDIN</a> &nbsp;&nbsp;/ &nbsp;&nbsp;<a href="mailto: paramith@sheridancollege.ca"
           >EMAIL</a>
         </p>
